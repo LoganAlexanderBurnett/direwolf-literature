@@ -1,0 +1,1057 @@
+TY  - JOUR
+ID  - DW-LIT-0001
+TI  - A new surrogate method for the neutron kinetics calculation of nuclear reactor core transients
+AU  - Li, Xiaoqi
+AU  - Zheng, Youqi
+AU  - Du, Xianan
+AU  - Xiao, Bowen
+PY  - 2024
+T2  - Nuclear Engineering and Technology, 56, 3571–3584
+DO  - 10.1016/j.net.2024.04.007
+UR  - https://doi.org/10.1016/j.net.2024.04.007
+L2  - https://doi.org/10.1016/j.net.2024.04.007
+KW  - NUC
+KW  - TRANS
+KW  - FIELD
+KW  - CTRL
+KW  - SEQ
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0001; rank 1; relevance 5/5; verified DOI in source manifest
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0002
+TI  - Point cloud neural operator for parametric PDEs on complex and variable geometries
+AU  - Zeng, Chenyu
+AU  - Zhang, Yanshu
+AU  - Zhou, Jiayi
+AU  - Wang, Yuhan
+AU  - Wang, Zilin
+AU  - Liu, Yuhao
+AU  - Wu, Lei
+AU  - Huang, Daniel Zhengyu
+PY  - 2025
+T2  - CMAME, 443, 118022
+DO  - 10.1016/j.cma.2025.118022
+UR  - https://doi.org/10.1016/j.cma.2025.118022
+L2  - https://arxiv.org/abs/2501.14475
+KW  - PC
+KW  - FE
+KW  - QUAD
+KW  - FIELD
+KW  - OPERATOR
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0002; rank 2; relevance 5/5; verified DOI in source manifest
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0003
+TI  - Data-Enabled Physics-Informed Machine Learning for Reduced-Order Modeling Digital Twin: Application to Nuclear Reactor Physics
+AU  - Gong, Helin
+AU  - Cheng, Sibo
+AU  - Chen, Zhang
+AU  - Li, Qing
+PY  - 2022
+T2  - Nuclear Science and Engineering, 196, 668–693
+DO  - 10.1080/00295639.2021.2014752
+UR  - https://doi.org/10.1080/00295639.2021.2014752
+KW  - NUC
+KW  - POD
+KW  - FIELD
+KW  - ROM
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0003; rank 3; relevance 5/5; verified DOI in source manifest
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0004
+TI  - An efficient digital twin based on machine learning SVD autoencoder and generalised latent assimilation for nuclear reactor physics
+AU  - Gong, Helin
+AU  - Cheng, Sibo
+AU  - Chen, Zhang
+AU  - Li, Qing
+AU  - Quilodrán-Casas, César
+AU  - Xiao, Dunhui
+AU  - Arcucci, Rossella
+PY  - 2022
+T2  - Annals of Nuclear Energy, 179, 109431
+DO  - 10.1016/j.anucene.2022.109431
+UR  - https://doi.org/10.1016/j.anucene.2022.109431
+L2  - https://cronfa.swansea.ac.uk/Record/cronfa61228
+KW  - NUC
+KW  - LAT
+KW  - POD
+KW  - FIELD
+KW  - ASSIM
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0004; rank 4; relevance 5/5; verified DOI in source manifest
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0005
+TI  - Learning to simulate quasi-steady-state fuel rod performance with hybrid Fourier neural operator
+AU  - Zhang, Tao
+AU  - Jiao, Yongjun
+AU  - Liu, Zhenhai
+AU  - Li, Yuanming
+AU  - Wang, Haoyu
+PY  - 2025
+T2  - Progress in Nuclear Energy, 186, 105769
+DO  - 10.1016/j.pnucene.2025.105769
+UR  - https://doi.org/10.1016/j.pnucene.2025.105769
+KW  - NUC
+KW  - FNO
+KW  - LSTM
+KW  - TRANS
+KW  - MULTI
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0005; rank 5; relevance 5/5; verified DOI in source manifest
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0006
+TI  - A transient heat conduction prediction method for complex structures based on neural operators
+AU  - Yuan, Jiacheng
+AU  - Zeng, Lei
+AU  - Gui, Yewei
+AU  - Shi, Youan
+AU  - Xia, Bin
+AU  - Wei, Dong
+PY  - 2026
+T2  - International Communications in Heat and Mass Transfer, 175, 111125
+DO  - 10.1016/j.icheatmasstransfer.2026.111125
+UR  - https://doi.org/10.1016/j.icheatmasstransfer.2026.111125
+KW  - THERM
+KW  - TRANS
+KW  - GNN
+KW  - FNO
+KW  - FE
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0006; rank 6; relevance 5/5; verified DOI in source manifest
+ER  - 
+
+TY  - CPAPER
+ID  - DW-LIT-0007
+TI  - Geometry-Informed Neural Operator for Large-Scale 3D PDEs
+AU  - Li, Zongyi
+AU  - Kovachki, Nikola
+AU  - Choy, Chris
+AU  - Li, Boyi
+AU  - Kossaifi, Jean
+AU  - Otta, Shourya
+AU  - Nabian, Mohammad Amin
+AU  - Stadler, Maximilian
+AU  - Hundt, Christian
+AU  - Azizzadenesheli, Kamyar
+AU  - Anandkumar, Anima
+PY  - 2023
+T2  - NeurIPS
+UR  - https://mlanthology.org/neurips/2023/li2023neurips-geometryinformed/
+L2  - https://arxiv.org/abs/2309.00583
+KW  - GINO
+KW  - GNN
+KW  - FNO
+KW  - 3D
+KW  - FE
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0007; rank 7; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - CPAPER
+ID  - DW-LIT-0008
+TI  - Learning Mesh-Based Simulation with Graph Networks
+AU  - Pfaff, Tobias
+AU  - Fortunato, Meire
+AU  - Sanchez-Gonzalez, Alvaro
+AU  - Battaglia, Peter
+PY  - 2021
+T2  - ICLR. Author publication, PDF and code links
+UR  - https://tobiaspfaff.com/publication/pfaff-2021-learning/
+KW  - GNN
+KW  - FE
+KW  - TRANS
+KW  - FIELD
+KW  - ROLLOUT
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0008; rank 8; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0009
+TI  - Spatio-spectral graph neural operator for solving computational mechanics problems on irregular domain and unstructured grid
+AU  - Sarkar, Subhankar
+AU  - Chakraborty, Souvik
+PY  - 2025
+T2  - CMAME, 435, 117659
+DO  - 10.1016/j.cma.2024.117659
+UR  - https://doi.org/10.1016/j.cma.2024.117659
+KW  - GNN
+KW  - SPECTRAL
+KW  - FE
+KW  - FIELD
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0009; rank 9; relevance 5/5; verified DOI in source manifest
+ER  - 
+
+TY  - CPAPER
+ID  - DW-LIT-0010
+TI  - Message Passing Neural PDE Solvers
+AU  - Brandstetter, Johannes
+AU  - Worrall, Daniel E.
+AU  - Welling, Max
+PY  - 2022
+T2  - ICLR. Conference PDF ·
+UR  - https://openreview.net/pdf?id=vSix3HPYKSU
+L2  - https://arxiv.org/abs/2202.03376
+KW  - GNN
+KW  - TRANS
+KW  - ROLLOUT
+KW  - STABILITY
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0010; rank 10; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - CPAPER
+ID  - DW-LIT-0011
+TI  - Transolver: A Fast Transformer Solver for PDEs on General Geometries
+AU  - Wu, Haixu
+AU  - Luo, Huakun
+AU  - Wang, Haowen
+AU  - Wang, Jianmin
+AU  - Long, Mingsheng
+PY  - 2024
+T2  - ICML, PMLR 235
+UR  - https://proceedings.mlr.press/v235/wu24r.html
+L2  - https://proceedings.mlr.press/v235/wu24r.html
+KW  - ATTN
+KW  - FE
+KW  - FIELD
+KW  - 3D
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0011; rank 11; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - CPAPER
+ID  - DW-LIT-0012
+TI  - Transolver++: An Accurate Neural Solver for PDEs on Million-Scale Geometries
+AU  - Luo, Huakun
+AU  - Wu, Haixu
+AU  - Zhou, Hang
+AU  - Xing, Lanxiang
+AU  - Di, Yichen
+AU  - Wang, Jianmin
+AU  - Long, Mingsheng
+PY  - 2025
+T2  - ICML, PMLR 267
+UR  - https://proceedings.mlr.press/v267/luo25o.html
+L2  - https://proceedings.mlr.press/v267/luo25o.html
+KW  - ATTN
+KW  - 3D
+KW  - SCALE
+KW  - FE
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0012; rank 12; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0013
+TI  - Fourier Neural Operator with Learned Deformations for PDEs on General Geometries
+AU  - Li, Zongyi
+AU  - Huang, Daniel Zhengyu
+AU  - Liu, Burigede
+AU  - Anandkumar, Anima
+PY  - 2023
+T2  - JMLR, 24(388), 1–26
+UR  - https://jmlr.org/papers/v24/23-0064.html
+L2  - https://arxiv.org/abs/2207.05209
+KW  - FNO
+KW  - GEOM
+KW  - FE
+KW  - FIELD
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0013; rank 13; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - CPAPER
+ID  - DW-LIT-0014
+TI  - Fourier Neural Operator for Parametric Partial Differential Equations
+AU  - Li, Zongyi
+AU  - Kovachki, Nikola
+AU  - Azizzadenesheli, Kamyar
+AU  - Liu, Burigede
+AU  - Bhattacharya, Kaushik
+AU  - Stuart, Andrew
+AU  - Anandkumar, Anima
+PY  - 2021
+T2  - ICLR. Conference /
+UR  - https://openreview.net/forum?id=c8P9NQVtmnO
+L2  - https://openreview.net/forum?id=c8P9NQVtmnO
+KW  - FNO
+KW  - OPERATOR
+KW  - TRANS
+KW  - GRID
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0014; rank 14; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0015
+TI  - Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators
+AU  - Lu, Lu
+AU  - Jin, Pengzhan
+AU  - Pang, Guofei
+AU  - Zhang, Zhongqiang
+AU  - Karniadakis, George Em
+PY  - 2021
+T2  - Nature Machine Intelligence, 3, 218–229
+DO  - 10.1038/s42256-021-00302-5
+UR  - https://doi.org/10.1038/s42256-021-00302-5
+KW  - DON
+KW  - FIELD
+KW  - CTRL
+KW  - OPERATOR
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0015; rank 15; relevance 5/5; verified DOI in source manifest
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0016
+TI  - Learning the solution operator of parametric partial differential equations with physics-informed DeepONets
+AU  - Wang, Sifan
+AU  - Wang, Hanwen
+AU  - Perdikaris, Paris
+PY  - 2021
+T2  - Science Advances, 7, eabi8605
+DO  - 10.1126/sciadv.abi8605
+UR  - https://doi.org/10.1126/sciadv.abi8605
+L2  - https://pmc.ncbi.nlm.nih.gov/articles/PMC8480920/
+KW  - DON
+KW  - PINN
+KW  - PHYS
+KW  - TRANS
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0016; rank 16; relevance 5/5; verified DOI in source manifest
+ER  - 
+
+TY  - UNPB
+ID  - DW-LIT-0017
+TI  - Physics-Informed Neural Operator for Learning Partial Differential Equations
+AU  - Li, Zongyi
+AU  - Zheng, Hongkai
+AU  - Kovachki, Nikola
+AU  - Jin, David
+AU  - Chen, Haoxuan
+AU  - Liu, Burigede
+AU  - Azizzadenesheli, Kamyar
+AU  - Anandkumar, Anima
+PY  - 2024
+T2  - Caltech accepted-manuscript record · arXiv. Accepted version deposited 2024; definitive journal venue/DOI not verified in this search. Code: NV
+UR  - https://authors.library.caltech.edu/records/06m4r-8jf10
+L2  - https://arxiv.org/abs/2111.03794
+KW  - FNO
+KW  - PINN
+KW  - PHYS
+KW  - DATA
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0017; rank 17; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0018
+TI  - Non-intrusive reduced order modeling of nonlinear problems using neural networks
+AU  - Hesthaven, Jan S.
+AU  - Ubbiali, Stefano
+PY  - 2018
+T2  - Journal of Computational Physics, 363, 55–78
+KW  - POD
+KW  - ROM
+KW  - DATA
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0018; rank 18; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0019
+TI  - Data-driven operator inference for nonintrusive projection-based model reduction
+AU  - Peherstorfer, Benjamin
+AU  - Willcox, Karen
+PY  - 2016
+T2  - CMAME, 306, 196–215
+KW  - POD
+KW  - OPINF
+KW  - TRANS
+KW  - CTRL
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0019; rank 19; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0020
+TI  - Model reduction of dynamical systems on nonlinear manifolds using deep convolutional autoencoders
+AU  - Lee, Kookjin
+AU  - Carlberg, Kevin T
+PY  - 2020
+T2  - Journal of Computational Physics, 404, 108973
+KW  - LAT
+KW  - AE
+KW  - ROM
+KW  - TRANS
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0020; rank 20; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0021
+TI  - Lift & Learn: Physics-informed machine learning for large-scale nonlinear dynamical systems
+AU  - Qian, Elizabeth
+AU  - Kramer, Boris
+AU  - Peherstorfer, Benjamin
+AU  - Willcox, Karen
+PY  - 2020
+T2  - Physica D, 406, 132401
+KW  - OPINF
+KW  - ROM
+KW  - PHYS
+KW  - MULTI
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0021; rank 21; relevance 5/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0022
+TI  - Deep neural operator-driven real-time inference to enable digital twin solutions for nuclear energy systems
+AU  - Kobayashi, Kazuma
+AU  - Alam, Syed Bahauddin
+PY  - 2024
+T2  - Scientific Reports, 14, 2101
+DO  - 10.1038/s41598-024-51984-x
+UR  - https://doi.org/10.1038/s41598-024-51984-x
+L2  - https://www.nature.com/articles/s41598-024-51984-x
+KW  - NUC
+KW  - DON
+KW  - FIELD
+KW  - STATIC
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0022; rank 22; relevance 4/5; verified DOI in source manifest
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0023
+TI  - NOEM: efficient and scalable finite element method enabled by reusable neural operators
+AU  - Ouyang, Weihang
+AU  - Shin, Yeonjong
+AU  - Liu, Si-Wei
+AU  - Lu, Lu
+PY  - 2026
+T2  - Nature Computational Science, 6, 417–429
+DO  - 10.1038/s43588-026-00974-2
+UR  - https://doi.org/10.1038/s43588-026-00974-2
+L2  - https://arxiv.org/abs/2506.18427
+KW  - FE
+KW  - HYBRID
+KW  - OPERATOR
+KW  - PHYS
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0023; rank 23; relevance 4/5; verified DOI in source manifest
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0024
+TI  - U-FNO—An enhanced Fourier neural operator-based deep-learning model for multiphase flow
+AU  - Wen, Gege
+AU  - Li, Zongyi
+AU  - Azizzadenesheli, Kamyar
+AU  - Anandkumar, Anima
+AU  - Benson, Sally M
+PY  - 2022
+T2  - Advances in Water Resources, 163, 104180
+DO  - 10.1016/j.advwatres.2022.104180
+UR  - https://doi.org/10.1016/j.advwatres.2022.104180
+L2  - https://arxiv.org/abs/2109.03697
+KW  - FNO
+KW  - MULTI
+KW  - TRANS
+KW  - DATA
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0024; rank 24; relevance 4/5; verified DOI in source manifest
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0025
+TI  - Physics-Regularized Heat-Source-Conditioned FNO-LA Surrogate for Coupled Neutronic–Thermal Field Prediction in a Steady-State Single-Rod Benchmark
+AU  - Ji, Jiahao
+AU  - Wang, Yuanfeng
+AU  - Wu, Chunbing
+AU  - Li, Wei
+PY  - 2026
+T2  - Applied Sciences, 16, 8043
+DO  - 10.3390/app16168043
+UR  - https://doi.org/10.3390/app16168043
+L2  - https://www.mdpi.com/2076-3417/16/16/8043
+KW  - NUC
+KW  - FNO
+KW  - MULTI
+KW  - PHYS
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0025; rank 25; relevance 4/5; verified DOI in source manifest
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0026
+TI  - PhyGeoNet: Physics-informed geometry-adaptive convolutional neural networks for solving parameterized steady-state PDEs on irregular domain
+AU  - Gao, Han
+AU  - Sun, Luning
+AU  - Wang, Jian-Xun
+PY  - 2021
+T2  - Journal of Computational Physics, 428, 110079
+KW  - GEOM
+KW  - PINN
+KW  - FIELD
+KW  - STATIC
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0026; rank 26; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0027
+TI  - Physics-constrained deep learning for high-dimensional surrogate modeling and uncertainty quantification without labeled data
+AU  - Zhu, Yinhao
+AU  - Zabaras, Nicholas
+AU  - Koutsourelakis, Phaedon-Stelios
+AU  - Perdikaris, Paris
+PY  - 2019
+T2  - Journal of Computational Physics, 394, 56–81
+KW  - PHYS
+KW  - UQ
+KW  - FIELD
+KW  - DATA
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0027; rank 27; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0028
+TI  - Bayesian deep convolutional encoder–decoder networks for surrogate modeling and uncertainty quantification
+AU  - Zhu, Yinhao
+AU  - Zabaras, Nicholas
+PY  - 2018
+T2  - Journal of Computational Physics, 366, 415–447
+KW  - AE
+KW  - UQ
+KW  - FIELD
+KW  - GRID
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0028; rank 28; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - CPAPER
+ID  - DW-LIT-0029
+TI  - Predicting Physics in Mesh-reduced Space with Temporal Attention
+AU  - Han, Xu
+AU  - Gao, Han
+AU  - Pfaff, Tobias
+AU  - Wang, Jian-Xun
+AU  - Liu, Li-Ping
+PY  - 2022
+T2  - ICLR. Author publication record
+UR  - https://tobiaspfaff.com/publication/
+KW  - LAT
+KW  - ATTN
+KW  - TRANS
+KW  - FE
+KW  - tier-1
+N1  - DIREWOLF ID: DW-LIT-0029; rank 29; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0030
+TI  - Physics informed neural networks for surrogate modeling of accidental scenarios in nuclear power plants
+AU  - Antonello, Federico
+AU  - Buongiorno, Jacopo
+AU  - Zio, Enrico
+PY  - 2023
+T2  - Nuclear Engineering and Technology, 55, 3409–3416
+DO  - 10.1016/j.net.2023.06.027
+UR  - https://doi.org/10.1016/j.net.2023.06.027
+L2  - https://re.public.polimi.it/handle/11311/1260252
+KW  - NUC
+KW  - PINN
+KW  - TRANS
+KW  - PHYS
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0030; rank 30; relevance 4/5; verified DOI in source manifest
+ER  - 
+
+TY  - CPAPER
+ID  - DW-LIT-0031
+TI  - Deep Parametric Continuous Convolutional Neural Networks
+AU  - Wang, Shenlong
+AU  - Suo, Simon
+AU  - Ma, Wei-Chiu
+AU  - Pokrovsky, Andrei
+AU  - Urtasun, Raquel
+PY  - 2018
+T2  - CVPR
+DO  - 10.1109/CVPR.2018.00274
+UR  - https://doi.org/10.1109/CVPR.2018.00274
+KW  - PC
+KW  - GEOM
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0031; rank 31; relevance 4/5; verified DOI in source manifest
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0032
+TI  - A Survey of Projection-Based Model Reduction Methods for Parametric Dynamical Systems
+AU  - Benner, Peter
+AU  - Gugercin, Serkan
+AU  - Willcox, Karen
+PY  - 2015
+T2  - SIAM Review, 57, 483–531
+KW  - ROM
+KW  - POD
+KW  - VV
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0032; rank 32; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0033
+TI  - Nonlinear Model Reduction via Discrete Empirical Interpolation
+AU  - Chaturantabut, Saifon
+AU  - Sorensen, Danny C
+PY  - 2010
+T2  - SIAM Journal on Scientific Computing, 32, 2737–2764
+KW  - ROM
+KW  - DEIM
+KW  - PHYS
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0033; rank 33; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0034
+TI  - The GNAT Method for Nonlinear Model Reduction: Effective Implementation and Application to Computational Fluid Dynamics and Turbulent Flows
+AU  - Carlberg, Kevin
+AU  - Farhat, Charbel
+AU  - Cortial, Julien
+AU  - Amsallem, David
+PY  - 2013
+T2  - Journal of Computational Physics, 242, 623–647
+KW  - ROM
+KW  - GNAT
+KW  - FE
+KW  - VV
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0034; rank 34; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0035
+TI  - Dynamic mode decomposition of numerical and experimental data
+AU  - Schmid, Peter J
+PY  - 2010
+T2  - Journal of Fluid Mechanics, 656, 5–28
+KW  - DMD
+KW  - TRANS
+KW  - ROM
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0035; rank 35; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0036
+TI  - The Proper Orthogonal Decomposition in the Analysis of Turbulent Flows
+AU  - Berkooz, Gal
+AU  - Holmes, Philip
+AU  - Lumley, John L
+PY  - 1993
+T2  - Annual Review of Fluid Mechanics, 25, 539–575
+KW  - POD
+KW  - ROM
+KW  - VV
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0036; rank 36; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0037
+TI  - Balanced Model Reduction via the Proper Orthogonal Decomposition
+AU  - Willcox, Karen
+AU  - Peraire, Jaime
+PY  - 2002
+T2  - AIAA Journal, 40, 2323–2330
+KW  - POD
+KW  - CTRL
+KW  - QOI
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0037; rank 37; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0038
+TI  - Model Reduction and Neural Networks for Parametric PDEs
+AU  - Bhattacharya, Kaushik
+AU  - Hosseini, Bamdad
+AU  - Kovachki, Nikola B.
+AU  - Stuart, Andrew M
+PY  - 2021
+T2  - SMAI Journal of Computational Mathematics, 7, 121–157
+KW  - ROM
+KW  - OPERATOR
+KW  - DATA
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0038; rank 38; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - UNPB
+ID  - DW-LIT-0039
+TI  - Neural-Network-Augmented Projection-Based Model Order Reduction for Mitigating the Kolmogorov Barrier to Reducibility of CFD Models
+AU  - Barnett, Joshua L.
+AU  - Farhat, Charbel
+AU  - Maday, Yvon
+PY  - 2022
+T2  - preprint
+UR  - https://arxiv.org/abs/2212.08939
+L2  - https://arxiv.org/abs/2212.08939
+KW  - POD
+KW  - LAT
+KW  - ROM
+KW  - FIELD
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0039; rank 39; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - UNPB
+ID  - DW-LIT-0040
+TI  - Neural Operator: Graph Kernel Network for Partial Differential Equations
+AU  - Li, Zongyi
+AU  - Kovachki, Nikola
+AU  - Azizzadenesheli, Kamyar
+AU  - Liu, Burigede
+AU  - Bhattacharya, Kaushik
+AU  - Stuart, Andrew
+AU  - Anandkumar, Anima
+PY  - 2020
+T2  - preprint
+UR  - https://arxiv.org/abs/2003.03485
+L2  - https://arxiv.org/abs/2003.03485
+KW  - GNO
+KW  - FE
+KW  - OPERATOR
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0040; rank 40; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - UNPB
+ID  - DW-LIT-0041
+TI  - Multiscale MeshGraphNets
+AU  - Fortunato, Meire
+AU  - Pfaff, Tobias
+AU  - Wirnsberger, Peter
+AU  - Pritzel, Alexander
+AU  - Battaglia, Peter
+PY  - 2022
+T2  - preprint. Research-group publication index
+UR  - https://tobiaspfaff.com/publication/
+KW  - GNN
+KW  - MULTISCALE
+KW  - FE
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0041; rank 41; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0042
+TI  - Neural Operator: Learning Maps Between Function Spaces
+AU  - Kovachki, Nikola et al
+PY  - 2023
+T2  - Journal of Machine Learning Research. Full author list,
+KW  - OPERATOR
+KW  - THEORY
+KW  - VV
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0042; rank 42; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0043
+TI  - Deep Transfer Operator Learning for Partial Differential Equations under Conditional Shift
+AU  - Goswami, Somdatta
+AU  - Kontolati, Katiana
+AU  - Shields, Michael D.
+AU  - Karniadakis, George Em
+PY  - 2022
+T2  - Nature Machine Intelligence, 4, 1155–1164
+KW  - DON
+KW  - TRANSFER
+KW  - OOD
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0043; rank 43; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0044
+TI  - Generative learning of the solution of parametric partial differential equations using guided diffusion models and virtual observations
+AU  - Gao, Han
+AU  - Kaltenbach, Sebastian
+AU  - Koumoutsakos, Petros
+PY  - 2025
+T2  - CMAME, 435, 117654
+KW  - GEN
+KW  - UQ
+KW  - FIELD
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0044; rank 44; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0045
+TI  - LAFlowNet: A dynamic graph method for the prediction of velocity and pressure fields in left atrium and left atrial appendage
+AU  - Liu, Xiaoyu
+AU  - Lin, Hongtao
+AU  - Liu, Xingli
+AU  - Qian, Jianghong
+AU  - Cai, Shengze
+AU  - Fan, Hongguang
+AU  - Gao, Qi
+PY  - 2024
+T2  - Engineering Applications of Artificial Intelligence, 136, 108896
+KW  - GNN
+KW  - FIELD
+KW  - TRANS
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0045; rank 45; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - CPAPER
+ID  - DW-LIT-0046
+TI  - VortexNet: A Graph Neural Network-Based Multi-Fidelity Surrogate Model for Field Predictions
+AU  - Shen, Yiren
+AU  - Needels, Jacob T.
+AU  - Alonso, Juan J
+PY  - 2025
+T2  - AIAA SciTech, paper 0494
+KW  - GNN
+KW  - MF
+KW  - FIELD
+KW  - DATA
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0046; rank 46; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - CPAPER
+ID  - DW-LIT-0047
+TI  - Choose a Transformer: Fourier or Galerkin
+AU  - Cao, Shuhao
+PY  - 2021
+T2  - NeurIPS, 24924–24940
+KW  - ATTN
+KW  - OPERATOR
+KW  - FIELD
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0047; rank 47; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - CPAPER
+ID  - DW-LIT-0048
+TI  - Positional Knowledge Is All You Need: Position-Induced Transformer (PiT) for Operator Learning
+AU  - Chen, Junfeng
+AU  - Wu, Kailiang
+PY  - 2024
+T2  - ICML
+KW  - ATTN
+KW  - GEOM
+KW  - OPERATOR
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0048; rank 48; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - UNPB
+ID  - DW-LIT-0049
+TI  - Neural Operators with Localized Integral and Differential Kernels
+AU  - Liu-Schiaffini, Miguel
+AU  - Berner, Julius
+AU  - Bonev, Boris
+AU  - Kurth, Thorsten
+AU  - Azizzadenesheli, Kamyar
+AU  - Anandkumar, Anima
+PY  - 2024
+T2  - preprint
+UR  - https://arxiv.org/abs/2402.16845
+L2  - https://arxiv.org/abs/2402.16845
+KW  - OPERATOR
+KW  - LOCAL
+KW  - FE
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0049; rank 49; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - UNPB
+ID  - DW-LIT-0050
+TI  - DiMON: Learning Solution Operators of Partial Differential Equations on a Diffeomorphic Family of Domains
+AU  - Yin, Minglang
+AU  - Charon, Nicolas
+AU  - Brody, Ryan
+AU  - Lu, Lu
+AU  - Trayanova, Natalia
+AU  - Maggioni, Mauro
+PY  - 2024
+T2  - preprint
+UR  - https://arxiv.org/abs/2402.07250
+L2  - https://arxiv.org/abs/2402.07250
+KW  - GEOM
+KW  - DON
+KW  - OPERATOR
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0050; rank 50; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - UNPB
+ID  - DW-LIT-0051
+TI  - Learning Solution Operators of PDEs Defined on Varying Domains via MIONet
+AU  - Xiao, Shanshan
+AU  - Jin, Pengzhan
+AU  - Tang, Yifa
+PY  - 2024
+T2  - preprint
+UR  - https://arxiv.org/abs/2402.15097
+L2  - https://arxiv.org/abs/2402.15097
+KW  - DON
+KW  - GEOM
+KW  - MULTI
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0051; rank 51; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0052
+TI  - Solving high-dimensional parametric engineering problems for inviscid flow around airfoils based on physics-informed neural networks
+AU  - Cao, Wenbo
+AU  - Song, Jiahao
+AU  - Zhang, Weiwei
+PY  - 2024
+T2  - Journal of Computational Physics, 516, 113285
+KW  - PINN
+KW  - FIELD
+KW  - GEOM
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0052; rank 52; relevance 3/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0053
+TI  - Gabor-Filtered Fourier Neural Operator for Solving Partial Differential Equations
+AU  - Qi, Kai
+AU  - Sun, Jian
+PY  - 2024
+T2  - Computers & Fluids, 274, 106239
+KW  - FNO
+KW  - SPECTRAL
+KW  - FIELD
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0053; rank 53; relevance 3/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - UNPB
+ID  - DW-LIT-0054
+TI  - Factorized Fourier Neural Operators
+AU  - Tran, Alasdair
+AU  - Mathews, Alexander
+AU  - Xie, Lexing
+AU  - Ong, Cheng Soon
+PY  - 2021
+T2  - preprint
+UR  - https://arxiv.org/abs/2111.13802
+L2  - https://arxiv.org/abs/2111.13802
+KW  - FNO
+KW  - SCALE
+KW  - GRID
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0054; rank 54; relevance 3/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - UNPB
+ID  - DW-LIT-0055
+TI  - MGNO: Efficient Parameterization of Linear Operators via Multigrid
+AU  - He, Juncai
+AU  - Liu, Xinliang
+AU  - Xu, Jinchao
+PY  - 2023
+T2  - preprint
+UR  - https://arxiv.org/abs/2310.19809
+L2  - https://arxiv.org/abs/2310.19809
+KW  - OPERATOR
+KW  - MULTISCALE
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0055; rank 55; relevance 3/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0056
+TI  - Reduced order modeling for nonlinear structural analysis using Gaussian process regression
+AU  - Guo, Mengwu
+AU  - Hesthaven, Jan S
+PY  - 2018
+T2  - CMAME, 341, 807–826
+KW  - POD
+KW  - GP
+KW  - UQ
+KW  - DATA
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0056; rank 56; relevance 4/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0057
+TI  - A Data–Driven Approximation of the Koopman Operator: Extending Dynamic Mode Decomposition
+AU  - Williams, Matthew O.
+AU  - Kevrekidis, Ioannis G.
+AU  - Rowley, Clarence W
+PY  - 2015
+T2  - Journal of Nonlinear Science, 25, 1307–1346
+KW  - KOOP
+KW  - ROM
+KW  - TRANS
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0057; rank 57; relevance 3/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0058
+TI  - Spectral analysis of nonlinear flows
+AU  - Rowley, Clarence W.
+AU  - Mezić, Igor
+AU  - Bagheri, Shervin
+AU  - Schlatter, Philipp
+AU  - Henningson, Dan S
+PY  - 2009
+T2  - Journal of Fluid Mechanics, 641, 115–127
+KW  - KOOP
+KW  - DMD
+KW  - TRANS
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0058; rank 58; relevance 3/5; bibliographic record identified; DOI unresolved
+ER  - 
+
+TY  - JOUR
+ID  - DW-LIT-0059
+TI  - A Hybrid Physics-informed Surrogate Model Approach for Xenon-induced Power Oscillation in Nuclear Reactor
+AU  - Zhang, Yueyao
+AU  - Zhang, Qian
+AU  - Wan, Chenghui
+AU  - Bai, Jiahe
+AU  - He, Mingtao
+AU  - Chen, Xiangdong
+PY  - 2025
+T2  - Atomic Energy Science and Technology
+DO  - 10.7538/yzk.2025.youxian.0349
+UR  - https://doi.org/10.7538/yzk.2025.youxian.0349
+KW  - NUC
+KW  - TRANS
+KW  - PHYS
+KW  - CTRL
+KW  - tier-2
+N1  - DIREWOLF ID: DW-LIT-0059; rank 59; relevance 4/5; verified DOI in source manifest
+ER  - 
+
