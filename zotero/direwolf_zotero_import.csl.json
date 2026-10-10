@@ -1,0 +1,2006 @@
+[
+  {
+    "id": "DW-LIT-0001",
+    "type": "article-journal",
+    "title": "A new surrogate method for the neutron kinetics calculation of nuclear reactor core transients",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Xiaoqi"
+      },
+      {
+        "family": "Zheng",
+        "given": "Youqi"
+      },
+      {
+        "family": "Du",
+        "given": "Xianan"
+      },
+      {
+        "family": "Xiao",
+        "given": "Bowen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "Nuclear Engineering and Technology, 56, 3571–3584",
+    "DOI": "10.1016/j.net.2024.04.007",
+    "URL": "https://doi.org/10.1016/j.net.2024.04.007",
+    "keyword": "NUC, TRANS, FIELD, CTRL, SEQ, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0001; rank: 1; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0002",
+    "type": "article-journal",
+    "title": "Point cloud neural operator for parametric PDEs on complex and variable geometries",
+    "author": [
+      {
+        "family": "Zeng",
+        "given": "Chenyu"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yanshu"
+      },
+      {
+        "family": "Zhou",
+        "given": "Jiayi"
+      },
+      {
+        "family": "Wang",
+        "given": "Yuhan"
+      },
+      {
+        "family": "Wang",
+        "given": "Zilin"
+      },
+      {
+        "family": "Liu",
+        "given": "Yuhao"
+      },
+      {
+        "family": "Wu",
+        "given": "Lei"
+      },
+      {
+        "family": "Huang",
+        "given": "Daniel Zhengyu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "CMAME, 443, 118022",
+    "DOI": "10.1016/j.cma.2025.118022",
+    "URL": "https://doi.org/10.1016/j.cma.2025.118022",
+    "keyword": "PC, FE, QUAD, FIELD, OPERATOR, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0002; rank: 2; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0003",
+    "type": "article-journal",
+    "title": "Data-Enabled Physics-Informed Machine Learning for Reduced-Order Modeling Digital Twin: Application to Nuclear Reactor Physics",
+    "author": [
+      {
+        "family": "Gong",
+        "given": "Helin"
+      },
+      {
+        "family": "Cheng",
+        "given": "Sibo"
+      },
+      {
+        "family": "Chen",
+        "given": "Zhang"
+      },
+      {
+        "family": "Li",
+        "given": "Qing"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "Nuclear Science and Engineering, 196, 668–693",
+    "DOI": "10.1080/00295639.2021.2014752",
+    "URL": "https://doi.org/10.1080/00295639.2021.2014752",
+    "keyword": "NUC, POD, FIELD, ROM, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0003; rank: 3; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0004",
+    "type": "article-journal",
+    "title": "An efficient digital twin based on machine learning SVD autoencoder and generalised latent assimilation for nuclear reactor physics",
+    "author": [
+      {
+        "family": "Gong",
+        "given": "Helin"
+      },
+      {
+        "family": "Cheng",
+        "given": "Sibo"
+      },
+      {
+        "family": "Chen",
+        "given": "Zhang"
+      },
+      {
+        "family": "Li",
+        "given": "Qing"
+      },
+      {
+        "family": "Quilodrán-Casas",
+        "given": "César"
+      },
+      {
+        "family": "Xiao",
+        "given": "Dunhui"
+      },
+      {
+        "family": "Arcucci",
+        "given": "Rossella"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "Annals of Nuclear Energy, 179, 109431",
+    "DOI": "10.1016/j.anucene.2022.109431",
+    "URL": "https://doi.org/10.1016/j.anucene.2022.109431",
+    "keyword": "NUC, LAT, POD, FIELD, ASSIM, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0004; rank: 4; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0005",
+    "type": "article-journal",
+    "title": "Learning to simulate quasi-steady-state fuel rod performance with hybrid Fourier neural operator",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Tao"
+      },
+      {
+        "family": "Jiao",
+        "given": "Yongjun"
+      },
+      {
+        "family": "Liu",
+        "given": "Zhenhai"
+      },
+      {
+        "family": "Li",
+        "given": "Yuanming"
+      },
+      {
+        "family": "Wang",
+        "given": "Haoyu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "Progress in Nuclear Energy, 186, 105769",
+    "DOI": "10.1016/j.pnucene.2025.105769",
+    "URL": "https://doi.org/10.1016/j.pnucene.2025.105769",
+    "keyword": "NUC, FNO, LSTM, TRANS, MULTI, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0005; rank: 5; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0006",
+    "type": "article-journal",
+    "title": "A transient heat conduction prediction method for complex structures based on neural operators",
+    "author": [
+      {
+        "family": "Yuan",
+        "given": "Jiacheng"
+      },
+      {
+        "family": "Zeng",
+        "given": "Lei"
+      },
+      {
+        "family": "Gui",
+        "given": "Yewei"
+      },
+      {
+        "family": "Shi",
+        "given": "Youan"
+      },
+      {
+        "family": "Xia",
+        "given": "Bin"
+      },
+      {
+        "family": "Wei",
+        "given": "Dong"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "International Communications in Heat and Mass Transfer, 175, 111125",
+    "DOI": "10.1016/j.icheatmasstransfer.2026.111125",
+    "URL": "https://doi.org/10.1016/j.icheatmasstransfer.2026.111125",
+    "keyword": "THERM, TRANS, GNN, FNO, FE, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0006; rank: 6; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0007",
+    "type": "paper-conference",
+    "title": "Geometry-Informed Neural Operator for Large-Scale 3D PDEs",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Zongyi"
+      },
+      {
+        "family": "Kovachki",
+        "given": "Nikola"
+      },
+      {
+        "family": "Choy",
+        "given": "Chris"
+      },
+      {
+        "family": "Li",
+        "given": "Boyi"
+      },
+      {
+        "family": "Kossaifi",
+        "given": "Jean"
+      },
+      {
+        "family": "Otta",
+        "given": "Shourya"
+      },
+      {
+        "family": "Nabian",
+        "given": "Mohammad Amin"
+      },
+      {
+        "family": "Stadler",
+        "given": "Maximilian"
+      },
+      {
+        "family": "Hundt",
+        "given": "Christian"
+      },
+      {
+        "family": "Azizzadenesheli",
+        "given": "Kamyar"
+      },
+      {
+        "family": "Anandkumar",
+        "given": "Anima"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": "NeurIPS",
+    "URL": "https://mlanthology.org/neurips/2023/li2023neurips-geometryinformed/",
+    "keyword": "GINO, GNN, FNO, 3D, FE, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0007; rank: 7; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0008",
+    "type": "paper-conference",
+    "title": "Learning Mesh-Based Simulation with Graph Networks",
+    "author": [
+      {
+        "family": "Pfaff",
+        "given": "Tobias"
+      },
+      {
+        "family": "Fortunato",
+        "given": "Meire"
+      },
+      {
+        "family": "Sanchez-Gonzalez",
+        "given": "Alvaro"
+      },
+      {
+        "family": "Battaglia",
+        "given": "Peter"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "ICLR. Author publication, PDF and code links",
+    "URL": "https://tobiaspfaff.com/publication/pfaff-2021-learning/",
+    "keyword": "GNN, FE, TRANS, FIELD, ROLLOUT, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0008; rank: 8; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0009",
+    "type": "article-journal",
+    "title": "Spatio-spectral graph neural operator for solving computational mechanics problems on irregular domain and unstructured grid",
+    "author": [
+      {
+        "family": "Sarkar",
+        "given": "Subhankar"
+      },
+      {
+        "family": "Chakraborty",
+        "given": "Souvik"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "CMAME, 435, 117659",
+    "DOI": "10.1016/j.cma.2024.117659",
+    "URL": "https://doi.org/10.1016/j.cma.2024.117659",
+    "keyword": "GNN, SPECTRAL, FE, FIELD, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0009; rank: 9; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0010",
+    "type": "paper-conference",
+    "title": "Message Passing Neural PDE Solvers",
+    "author": [
+      {
+        "family": "Brandstetter",
+        "given": "Johannes"
+      },
+      {
+        "family": "Worrall",
+        "given": "Daniel E."
+      },
+      {
+        "family": "Welling",
+        "given": "Max"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "ICLR. Conference PDF ·",
+    "URL": "https://openreview.net/pdf?id=vSix3HPYKSU",
+    "keyword": "GNN, TRANS, ROLLOUT, STABILITY, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0010; rank: 10; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0011",
+    "type": "paper-conference",
+    "title": "Transolver: A Fast Transformer Solver for PDEs on General Geometries",
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Haixu"
+      },
+      {
+        "family": "Luo",
+        "given": "Huakun"
+      },
+      {
+        "family": "Wang",
+        "given": "Haowen"
+      },
+      {
+        "family": "Wang",
+        "given": "Jianmin"
+      },
+      {
+        "family": "Long",
+        "given": "Mingsheng"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "ICML, PMLR 235",
+    "URL": "https://proceedings.mlr.press/v235/wu24r.html",
+    "keyword": "ATTN, FE, FIELD, 3D, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0011; rank: 11; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0012",
+    "type": "paper-conference",
+    "title": "Transolver++: An Accurate Neural Solver for PDEs on Million-Scale Geometries",
+    "author": [
+      {
+        "family": "Luo",
+        "given": "Huakun"
+      },
+      {
+        "family": "Wu",
+        "given": "Haixu"
+      },
+      {
+        "family": "Zhou",
+        "given": "Hang"
+      },
+      {
+        "family": "Xing",
+        "given": "Lanxiang"
+      },
+      {
+        "family": "Di",
+        "given": "Yichen"
+      },
+      {
+        "family": "Wang",
+        "given": "Jianmin"
+      },
+      {
+        "family": "Long",
+        "given": "Mingsheng"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "ICML, PMLR 267",
+    "URL": "https://proceedings.mlr.press/v267/luo25o.html",
+    "keyword": "ATTN, 3D, SCALE, FE, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0012; rank: 12; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0013",
+    "type": "article-journal",
+    "title": "Fourier Neural Operator with Learned Deformations for PDEs on General Geometries",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Zongyi"
+      },
+      {
+        "family": "Huang",
+        "given": "Daniel Zhengyu"
+      },
+      {
+        "family": "Liu",
+        "given": "Burigede"
+      },
+      {
+        "family": "Anandkumar",
+        "given": "Anima"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": "JMLR, 24(388), 1–26",
+    "URL": "https://jmlr.org/papers/v24/23-0064.html",
+    "keyword": "FNO, GEOM, FE, FIELD, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0013; rank: 13; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0014",
+    "type": "paper-conference",
+    "title": "Fourier Neural Operator for Parametric Partial Differential Equations",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Zongyi"
+      },
+      {
+        "family": "Kovachki",
+        "given": "Nikola"
+      },
+      {
+        "family": "Azizzadenesheli",
+        "given": "Kamyar"
+      },
+      {
+        "family": "Liu",
+        "given": "Burigede"
+      },
+      {
+        "family": "Bhattacharya",
+        "given": "Kaushik"
+      },
+      {
+        "family": "Stuart",
+        "given": "Andrew"
+      },
+      {
+        "family": "Anandkumar",
+        "given": "Anima"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "ICLR. Conference /",
+    "URL": "https://openreview.net/forum?id=c8P9NQVtmnO",
+    "keyword": "FNO, OPERATOR, TRANS, GRID, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0014; rank: 14; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0015",
+    "type": "article-journal",
+    "title": "Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators",
+    "author": [
+      {
+        "family": "Lu",
+        "given": "Lu"
+      },
+      {
+        "family": "Jin",
+        "given": "Pengzhan"
+      },
+      {
+        "family": "Pang",
+        "given": "Guofei"
+      },
+      {
+        "family": "Zhang",
+        "given": "Zhongqiang"
+      },
+      {
+        "family": "Karniadakis",
+        "given": "George Em"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "Nature Machine Intelligence, 3, 218–229",
+    "DOI": "10.1038/s42256-021-00302-5",
+    "URL": "https://doi.org/10.1038/s42256-021-00302-5",
+    "keyword": "DON, FIELD, CTRL, OPERATOR, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0015; rank: 15; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0016",
+    "type": "article-journal",
+    "title": "Learning the solution operator of parametric partial differential equations with physics-informed DeepONets",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Sifan"
+      },
+      {
+        "family": "Wang",
+        "given": "Hanwen"
+      },
+      {
+        "family": "Perdikaris",
+        "given": "Paris"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "Science Advances, 7, eabi8605",
+    "DOI": "10.1126/sciadv.abi8605",
+    "URL": "https://doi.org/10.1126/sciadv.abi8605",
+    "keyword": "DON, PINN, PHYS, TRANS, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0016; rank: 16; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0017",
+    "type": "article",
+    "title": "Physics-Informed Neural Operator for Learning Partial Differential Equations",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Zongyi"
+      },
+      {
+        "family": "Zheng",
+        "given": "Hongkai"
+      },
+      {
+        "family": "Kovachki",
+        "given": "Nikola"
+      },
+      {
+        "family": "Jin",
+        "given": "David"
+      },
+      {
+        "family": "Chen",
+        "given": "Haoxuan"
+      },
+      {
+        "family": "Liu",
+        "given": "Burigede"
+      },
+      {
+        "family": "Azizzadenesheli",
+        "given": "Kamyar"
+      },
+      {
+        "family": "Anandkumar",
+        "given": "Anima"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "Caltech accepted-manuscript record · arXiv. Accepted version deposited 2024; definitive journal venue/DOI not verified in this search. Code: NV",
+    "URL": "https://authors.library.caltech.edu/records/06m4r-8jf10",
+    "keyword": "FNO, PINN, PHYS, DATA, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0017; rank: 17; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0018",
+    "type": "article-journal",
+    "title": "Non-intrusive reduced order modeling of nonlinear problems using neural networks",
+    "author": [
+      {
+        "family": "Hesthaven",
+        "given": "Jan S."
+      },
+      {
+        "family": "Ubbiali",
+        "given": "Stefano"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "Journal of Computational Physics, 363, 55–78",
+    "keyword": "POD, ROM, DATA, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0018; rank: 18; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0019",
+    "type": "article-journal",
+    "title": "Data-driven operator inference for nonintrusive projection-based model reduction",
+    "author": [
+      {
+        "family": "Peherstorfer",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Willcox",
+        "given": "Karen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "CMAME, 306, 196–215",
+    "keyword": "POD, OPINF, TRANS, CTRL, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0019; rank: 19; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0020",
+    "type": "article-journal",
+    "title": "Model reduction of dynamical systems on nonlinear manifolds using deep convolutional autoencoders",
+    "author": [
+      {
+        "family": "Lee",
+        "given": "Kookjin"
+      },
+      {
+        "family": "Carlberg",
+        "given": "Kevin T"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "Journal of Computational Physics, 404, 108973",
+    "keyword": "LAT, AE, ROM, TRANS, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0020; rank: 20; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0021",
+    "type": "article-journal",
+    "title": "Lift & Learn: Physics-informed machine learning for large-scale nonlinear dynamical systems",
+    "author": [
+      {
+        "family": "Qian",
+        "given": "Elizabeth"
+      },
+      {
+        "family": "Kramer",
+        "given": "Boris"
+      },
+      {
+        "family": "Peherstorfer",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Willcox",
+        "given": "Karen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "Physica D, 406, 132401",
+    "keyword": "OPINF, ROM, PHYS, MULTI, tier-1, direwolf-relevance-5",
+    "note": "DIREWOLF ID: DW-LIT-0021; rank: 21; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0022",
+    "type": "article-journal",
+    "title": "Deep neural operator-driven real-time inference to enable digital twin solutions for nuclear energy systems",
+    "author": [
+      {
+        "family": "Kobayashi",
+        "given": "Kazuma"
+      },
+      {
+        "family": "Alam",
+        "given": "Syed Bahauddin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "Scientific Reports, 14, 2101",
+    "DOI": "10.1038/s41598-024-51984-x",
+    "URL": "https://doi.org/10.1038/s41598-024-51984-x",
+    "keyword": "NUC, DON, FIELD, STATIC, tier-1, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0022; rank: 22; tier: Tier 1; relevance: 4/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0023",
+    "type": "article-journal",
+    "title": "NOEM: efficient and scalable finite element method enabled by reusable neural operators",
+    "author": [
+      {
+        "family": "Ouyang",
+        "given": "Weihang"
+      },
+      {
+        "family": "Shin",
+        "given": "Yeonjong"
+      },
+      {
+        "family": "Liu",
+        "given": "Si-Wei"
+      },
+      {
+        "family": "Lu",
+        "given": "Lu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "Nature Computational Science, 6, 417–429",
+    "DOI": "10.1038/s43588-026-00974-2",
+    "URL": "https://doi.org/10.1038/s43588-026-00974-2",
+    "keyword": "FE, HYBRID, OPERATOR, PHYS, tier-1, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0023; rank: 23; tier: Tier 1; relevance: 4/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0024",
+    "type": "article-journal",
+    "title": "U-FNO—An enhanced Fourier neural operator-based deep-learning model for multiphase flow",
+    "author": [
+      {
+        "family": "Wen",
+        "given": "Gege"
+      },
+      {
+        "family": "Li",
+        "given": "Zongyi"
+      },
+      {
+        "family": "Azizzadenesheli",
+        "given": "Kamyar"
+      },
+      {
+        "family": "Anandkumar",
+        "given": "Anima"
+      },
+      {
+        "family": "Benson",
+        "given": "Sally M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "Advances in Water Resources, 163, 104180",
+    "DOI": "10.1016/j.advwatres.2022.104180",
+    "URL": "https://doi.org/10.1016/j.advwatres.2022.104180",
+    "keyword": "FNO, MULTI, TRANS, DATA, tier-1, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0024; rank: 24; tier: Tier 1; relevance: 4/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0025",
+    "type": "article-journal",
+    "title": "Physics-Regularized Heat-Source-Conditioned FNO-LA Surrogate for Coupled Neutronic–Thermal Field Prediction in a Steady-State Single-Rod Benchmark",
+    "author": [
+      {
+        "family": "Ji",
+        "given": "Jiahao"
+      },
+      {
+        "family": "Wang",
+        "given": "Yuanfeng"
+      },
+      {
+        "family": "Wu",
+        "given": "Chunbing"
+      },
+      {
+        "family": "Li",
+        "given": "Wei"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "Applied Sciences, 16, 8043",
+    "DOI": "10.3390/app16168043",
+    "URL": "https://doi.org/10.3390/app16168043",
+    "keyword": "NUC, FNO, MULTI, PHYS, tier-1, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0025; rank: 25; tier: Tier 1; relevance: 4/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0026",
+    "type": "article-journal",
+    "title": "PhyGeoNet: Physics-informed geometry-adaptive convolutional neural networks for solving parameterized steady-state PDEs on irregular domain",
+    "author": [
+      {
+        "family": "Gao",
+        "given": "Han"
+      },
+      {
+        "family": "Sun",
+        "given": "Luning"
+      },
+      {
+        "family": "Wang",
+        "given": "Jian-Xun"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "Journal of Computational Physics, 428, 110079",
+    "keyword": "GEOM, PINN, FIELD, STATIC, tier-1, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0026; rank: 26; tier: Tier 1; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0027",
+    "type": "article-journal",
+    "title": "Physics-constrained deep learning for high-dimensional surrogate modeling and uncertainty quantification without labeled data",
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "Yinhao"
+      },
+      {
+        "family": "Zabaras",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Koutsourelakis",
+        "given": "Phaedon-Stelios"
+      },
+      {
+        "family": "Perdikaris",
+        "given": "Paris"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "Journal of Computational Physics, 394, 56–81",
+    "keyword": "PHYS, UQ, FIELD, DATA, tier-1, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0027; rank: 27; tier: Tier 1; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0028",
+    "type": "article-journal",
+    "title": "Bayesian deep convolutional encoder–decoder networks for surrogate modeling and uncertainty quantification",
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "Yinhao"
+      },
+      {
+        "family": "Zabaras",
+        "given": "Nicholas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "Journal of Computational Physics, 366, 415–447",
+    "keyword": "AE, UQ, FIELD, GRID, tier-1, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0028; rank: 28; tier: Tier 1; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0029",
+    "type": "paper-conference",
+    "title": "Predicting Physics in Mesh-reduced Space with Temporal Attention",
+    "author": [
+      {
+        "family": "Han",
+        "given": "Xu"
+      },
+      {
+        "family": "Gao",
+        "given": "Han"
+      },
+      {
+        "family": "Pfaff",
+        "given": "Tobias"
+      },
+      {
+        "family": "Wang",
+        "given": "Jian-Xun"
+      },
+      {
+        "family": "Liu",
+        "given": "Li-Ping"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "ICLR. Author publication record",
+    "URL": "https://tobiaspfaff.com/publication/",
+    "keyword": "LAT, ATTN, TRANS, FE, tier-1, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0029; rank: 29; tier: Tier 1; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0030",
+    "type": "article-journal",
+    "title": "Physics informed neural networks for surrogate modeling of accidental scenarios in nuclear power plants",
+    "author": [
+      {
+        "family": "Antonello",
+        "given": "Federico"
+      },
+      {
+        "family": "Buongiorno",
+        "given": "Jacopo"
+      },
+      {
+        "family": "Zio",
+        "given": "Enrico"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": "Nuclear Engineering and Technology, 55, 3409–3416",
+    "DOI": "10.1016/j.net.2023.06.027",
+    "URL": "https://doi.org/10.1016/j.net.2023.06.027",
+    "keyword": "NUC, PINN, TRANS, PHYS, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0030; rank: 30; tier: Tier 2; relevance: 4/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0031",
+    "type": "paper-conference",
+    "title": "Deep Parametric Continuous Convolutional Neural Networks",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Shenlong"
+      },
+      {
+        "family": "Suo",
+        "given": "Simon"
+      },
+      {
+        "family": "Ma",
+        "given": "Wei-Chiu"
+      },
+      {
+        "family": "Pokrovsky",
+        "given": "Andrei"
+      },
+      {
+        "family": "Urtasun",
+        "given": "Raquel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "CVPR",
+    "DOI": "10.1109/CVPR.2018.00274",
+    "URL": "https://doi.org/10.1109/CVPR.2018.00274",
+    "keyword": "PC, GEOM, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0031; rank: 31; tier: Tier 2; relevance: 4/5; verification: verified DOI in source manifest"
+  },
+  {
+    "id": "DW-LIT-0032",
+    "type": "article-journal",
+    "title": "A Survey of Projection-Based Model Reduction Methods for Parametric Dynamical Systems",
+    "author": [
+      {
+        "family": "Benner",
+        "given": "Peter"
+      },
+      {
+        "family": "Gugercin",
+        "given": "Serkan"
+      },
+      {
+        "family": "Willcox",
+        "given": "Karen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "SIAM Review, 57, 483–531",
+    "keyword": "ROM, POD, VV, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0032; rank: 32; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0033",
+    "type": "article-journal",
+    "title": "Nonlinear Model Reduction via Discrete Empirical Interpolation",
+    "author": [
+      {
+        "family": "Chaturantabut",
+        "given": "Saifon"
+      },
+      {
+        "family": "Sorensen",
+        "given": "Danny C"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "container-title": "SIAM Journal on Scientific Computing, 32, 2737–2764",
+    "keyword": "ROM, DEIM, PHYS, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0033; rank: 33; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0034",
+    "type": "article-journal",
+    "title": "The GNAT Method for Nonlinear Model Reduction: Effective Implementation and Application to Computational Fluid Dynamics and Turbulent Flows",
+    "author": [
+      {
+        "family": "Carlberg",
+        "given": "Kevin"
+      },
+      {
+        "family": "Farhat",
+        "given": "Charbel"
+      },
+      {
+        "family": "Cortial",
+        "given": "Julien"
+      },
+      {
+        "family": "Amsallem",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "Journal of Computational Physics, 242, 623–647",
+    "keyword": "ROM, GNAT, FE, VV, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0034; rank: 34; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0035",
+    "type": "article-journal",
+    "title": "Dynamic mode decomposition of numerical and experimental data",
+    "author": [
+      {
+        "family": "Schmid",
+        "given": "Peter J"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "container-title": "Journal of Fluid Mechanics, 656, 5–28",
+    "keyword": "DMD, TRANS, ROM, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0035; rank: 35; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0036",
+    "type": "article-journal",
+    "title": "The Proper Orthogonal Decomposition in the Analysis of Turbulent Flows",
+    "author": [
+      {
+        "family": "Berkooz",
+        "given": "Gal"
+      },
+      {
+        "family": "Holmes",
+        "given": "Philip"
+      },
+      {
+        "family": "Lumley",
+        "given": "John L"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "container-title": "Annual Review of Fluid Mechanics, 25, 539–575",
+    "keyword": "POD, ROM, VV, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0036; rank: 36; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0037",
+    "type": "article-journal",
+    "title": "Balanced Model Reduction via the Proper Orthogonal Decomposition",
+    "author": [
+      {
+        "family": "Willcox",
+        "given": "Karen"
+      },
+      {
+        "family": "Peraire",
+        "given": "Jaime"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "container-title": "AIAA Journal, 40, 2323–2330",
+    "keyword": "POD, CTRL, QOI, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0037; rank: 37; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0038",
+    "type": "article-journal",
+    "title": "Model Reduction and Neural Networks for Parametric PDEs",
+    "author": [
+      {
+        "family": "Bhattacharya",
+        "given": "Kaushik"
+      },
+      {
+        "family": "Hosseini",
+        "given": "Bamdad"
+      },
+      {
+        "family": "Kovachki",
+        "given": "Nikola B."
+      },
+      {
+        "family": "Stuart",
+        "given": "Andrew M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "SMAI Journal of Computational Mathematics, 7, 121–157",
+    "keyword": "ROM, OPERATOR, DATA, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0038; rank: 38; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0039",
+    "type": "article",
+    "title": "Neural-Network-Augmented Projection-Based Model Order Reduction for Mitigating the Kolmogorov Barrier to Reducibility of CFD Models",
+    "author": [
+      {
+        "family": "Barnett",
+        "given": "Joshua L."
+      },
+      {
+        "family": "Farhat",
+        "given": "Charbel"
+      },
+      {
+        "family": "Maday",
+        "given": "Yvon"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "preprint",
+    "URL": "https://arxiv.org/abs/2212.08939",
+    "keyword": "POD, LAT, ROM, FIELD, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0039; rank: 39; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0040",
+    "type": "article",
+    "title": "Neural Operator: Graph Kernel Network for Partial Differential Equations",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Zongyi"
+      },
+      {
+        "family": "Kovachki",
+        "given": "Nikola"
+      },
+      {
+        "family": "Azizzadenesheli",
+        "given": "Kamyar"
+      },
+      {
+        "family": "Liu",
+        "given": "Burigede"
+      },
+      {
+        "family": "Bhattacharya",
+        "given": "Kaushik"
+      },
+      {
+        "family": "Stuart",
+        "given": "Andrew"
+      },
+      {
+        "family": "Anandkumar",
+        "given": "Anima"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "preprint",
+    "URL": "https://arxiv.org/abs/2003.03485",
+    "keyword": "GNO, FE, OPERATOR, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0040; rank: 40; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0041",
+    "type": "article",
+    "title": "Multiscale MeshGraphNets",
+    "author": [
+      {
+        "family": "Fortunato",
+        "given": "Meire"
+      },
+      {
+        "family": "Pfaff",
+        "given": "Tobias"
+      },
+      {
+        "family": "Wirnsberger",
+        "given": "Peter"
+      },
+      {
+        "family": "Pritzel",
+        "given": "Alexander"
+      },
+      {
+        "family": "Battaglia",
+        "given": "Peter"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "preprint. Research-group publication index",
+    "URL": "https://tobiaspfaff.com/publication/",
+    "keyword": "GNN, MULTISCALE, FE, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0041; rank: 41; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0042",
+    "type": "article-journal",
+    "title": "Neural Operator: Learning Maps Between Function Spaces",
+    "author": [
+      {
+        "family": "Kovachki",
+        "given": "Nikola et al"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": "Journal of Machine Learning Research. Full author list,",
+    "keyword": "OPERATOR, THEORY, VV, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0042; rank: 42; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0043",
+    "type": "article-journal",
+    "title": "Deep Transfer Operator Learning for Partial Differential Equations under Conditional Shift",
+    "author": [
+      {
+        "family": "Goswami",
+        "given": "Somdatta"
+      },
+      {
+        "family": "Kontolati",
+        "given": "Katiana"
+      },
+      {
+        "family": "Shields",
+        "given": "Michael D."
+      },
+      {
+        "family": "Karniadakis",
+        "given": "George Em"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "Nature Machine Intelligence, 4, 1155–1164",
+    "keyword": "DON, TRANSFER, OOD, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0043; rank: 43; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0044",
+    "type": "article-journal",
+    "title": "Generative learning of the solution of parametric partial differential equations using guided diffusion models and virtual observations",
+    "author": [
+      {
+        "family": "Gao",
+        "given": "Han"
+      },
+      {
+        "family": "Kaltenbach",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Koumoutsakos",
+        "given": "Petros"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "CMAME, 435, 117654",
+    "keyword": "GEN, UQ, FIELD, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0044; rank: 44; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0045",
+    "type": "article-journal",
+    "title": "LAFlowNet: A dynamic graph method for the prediction of velocity and pressure fields in left atrium and left atrial appendage",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Xiaoyu"
+      },
+      {
+        "family": "Lin",
+        "given": "Hongtao"
+      },
+      {
+        "family": "Liu",
+        "given": "Xingli"
+      },
+      {
+        "family": "Qian",
+        "given": "Jianghong"
+      },
+      {
+        "family": "Cai",
+        "given": "Shengze"
+      },
+      {
+        "family": "Fan",
+        "given": "Hongguang"
+      },
+      {
+        "family": "Gao",
+        "given": "Qi"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "Engineering Applications of Artificial Intelligence, 136, 108896",
+    "keyword": "GNN, FIELD, TRANS, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0045; rank: 45; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0046",
+    "type": "paper-conference",
+    "title": "VortexNet: A Graph Neural Network-Based Multi-Fidelity Surrogate Model for Field Predictions",
+    "author": [
+      {
+        "family": "Shen",
+        "given": "Yiren"
+      },
+      {
+        "family": "Needels",
+        "given": "Jacob T."
+      },
+      {
+        "family": "Alonso",
+        "given": "Juan J"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "AIAA SciTech, paper 0494",
+    "keyword": "GNN, MF, FIELD, DATA, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0046; rank: 46; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0047",
+    "type": "paper-conference",
+    "title": "Choose a Transformer: Fourier or Galerkin",
+    "author": [
+      {
+        "family": "Cao",
+        "given": "Shuhao"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "NeurIPS, 24924–24940",
+    "keyword": "ATTN, OPERATOR, FIELD, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0047; rank: 47; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0048",
+    "type": "paper-conference",
+    "title": "Positional Knowledge Is All You Need: Position-Induced Transformer (PiT) for Operator Learning",
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Junfeng"
+      },
+      {
+        "family": "Wu",
+        "given": "Kailiang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "ICML",
+    "keyword": "ATTN, GEOM, OPERATOR, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0048; rank: 48; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0049",
+    "type": "article",
+    "title": "Neural Operators with Localized Integral and Differential Kernels",
+    "author": [
+      {
+        "family": "Liu-Schiaffini",
+        "given": "Miguel"
+      },
+      {
+        "family": "Berner",
+        "given": "Julius"
+      },
+      {
+        "family": "Bonev",
+        "given": "Boris"
+      },
+      {
+        "family": "Kurth",
+        "given": "Thorsten"
+      },
+      {
+        "family": "Azizzadenesheli",
+        "given": "Kamyar"
+      },
+      {
+        "family": "Anandkumar",
+        "given": "Anima"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "preprint",
+    "URL": "https://arxiv.org/abs/2402.16845",
+    "keyword": "OPERATOR, LOCAL, FE, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0049; rank: 49; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0050",
+    "type": "article",
+    "title": "DiMON: Learning Solution Operators of Partial Differential Equations on a Diffeomorphic Family of Domains",
+    "author": [
+      {
+        "family": "Yin",
+        "given": "Minglang"
+      },
+      {
+        "family": "Charon",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Brody",
+        "given": "Ryan"
+      },
+      {
+        "family": "Lu",
+        "given": "Lu"
+      },
+      {
+        "family": "Trayanova",
+        "given": "Natalia"
+      },
+      {
+        "family": "Maggioni",
+        "given": "Mauro"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "preprint",
+    "URL": "https://arxiv.org/abs/2402.07250",
+    "keyword": "GEOM, DON, OPERATOR, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0050; rank: 50; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0051",
+    "type": "article",
+    "title": "Learning Solution Operators of PDEs Defined on Varying Domains via MIONet",
+    "author": [
+      {
+        "family": "Xiao",
+        "given": "Shanshan"
+      },
+      {
+        "family": "Jin",
+        "given": "Pengzhan"
+      },
+      {
+        "family": "Tang",
+        "given": "Yifa"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "preprint",
+    "URL": "https://arxiv.org/abs/2402.15097",
+    "keyword": "DON, GEOM, MULTI, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0051; rank: 51; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0052",
+    "type": "article-journal",
+    "title": "Solving high-dimensional parametric engineering problems for inviscid flow around airfoils based on physics-informed neural networks",
+    "author": [
+      {
+        "family": "Cao",
+        "given": "Wenbo"
+      },
+      {
+        "family": "Song",
+        "given": "Jiahao"
+      },
+      {
+        "family": "Zhang",
+        "given": "Weiwei"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "Journal of Computational Physics, 516, 113285",
+    "keyword": "PINN, FIELD, GEOM, tier-2, direwolf-relevance-3",
+    "note": "DIREWOLF ID: DW-LIT-0052; rank: 52; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0053",
+    "type": "article-journal",
+    "title": "Gabor-Filtered Fourier Neural Operator for Solving Partial Differential Equations",
+    "author": [
+      {
+        "family": "Qi",
+        "given": "Kai"
+      },
+      {
+        "family": "Sun",
+        "given": "Jian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "Computers & Fluids, 274, 106239",
+    "keyword": "FNO, SPECTRAL, FIELD, tier-2, direwolf-relevance-3",
+    "note": "DIREWOLF ID: DW-LIT-0053; rank: 53; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0054",
+    "type": "article",
+    "title": "Factorized Fourier Neural Operators",
+    "author": [
+      {
+        "family": "Tran",
+        "given": "Alasdair"
+      },
+      {
+        "family": "Mathews",
+        "given": "Alexander"
+      },
+      {
+        "family": "Xie",
+        "given": "Lexing"
+      },
+      {
+        "family": "Ong",
+        "given": "Cheng Soon"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "preprint",
+    "URL": "https://arxiv.org/abs/2111.13802",
+    "keyword": "FNO, SCALE, GRID, tier-2, direwolf-relevance-3",
+    "note": "DIREWOLF ID: DW-LIT-0054; rank: 54; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0055",
+    "type": "article",
+    "title": "MGNO: Efficient Parameterization of Linear Operators via Multigrid",
+    "author": [
+      {
+        "family": "He",
+        "given": "Juncai"
+      },
+      {
+        "family": "Liu",
+        "given": "Xinliang"
+      },
+      {
+        "family": "Xu",
+        "given": "Jinchao"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": "preprint",
+    "URL": "https://arxiv.org/abs/2310.19809",
+    "keyword": "OPERATOR, MULTISCALE, tier-2, direwolf-relevance-3",
+    "note": "DIREWOLF ID: DW-LIT-0055; rank: 55; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0056",
+    "type": "article-journal",
+    "title": "Reduced order modeling for nonlinear structural analysis using Gaussian process regression",
+    "author": [
+      {
+        "family": "Guo",
+        "given": "Mengwu"
+      },
+      {
+        "family": "Hesthaven",
+        "given": "Jan S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "CMAME, 341, 807–826",
+    "keyword": "POD, GP, UQ, DATA, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0056; rank: 56; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0057",
+    "type": "article-journal",
+    "title": "A Data–Driven Approximation of the Koopman Operator: Extending Dynamic Mode Decomposition",
+    "author": [
+      {
+        "family": "Williams",
+        "given": "Matthew O."
+      },
+      {
+        "family": "Kevrekidis",
+        "given": "Ioannis G."
+      },
+      {
+        "family": "Rowley",
+        "given": "Clarence W"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "Journal of Nonlinear Science, 25, 1307–1346",
+    "keyword": "KOOP, ROM, TRANS, tier-2, direwolf-relevance-3",
+    "note": "DIREWOLF ID: DW-LIT-0057; rank: 57; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0058",
+    "type": "article-journal",
+    "title": "Spectral analysis of nonlinear flows",
+    "author": [
+      {
+        "family": "Rowley",
+        "given": "Clarence W."
+      },
+      {
+        "family": "Mezić",
+        "given": "Igor"
+      },
+      {
+        "family": "Bagheri",
+        "given": "Shervin"
+      },
+      {
+        "family": "Schlatter",
+        "given": "Philipp"
+      },
+      {
+        "family": "Henningson",
+        "given": "Dan S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "container-title": "Journal of Fluid Mechanics, 641, 115–127",
+    "keyword": "KOOP, DMD, TRANS, tier-2, direwolf-relevance-3",
+    "note": "DIREWOLF ID: DW-LIT-0058; rank: 58; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+  },
+  {
+    "id": "DW-LIT-0059",
+    "type": "article-journal",
+    "title": "A Hybrid Physics-informed Surrogate Model Approach for Xenon-induced Power Oscillation in Nuclear Reactor",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Yueyao"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qian"
+      },
+      {
+        "family": "Wan",
+        "given": "Chenghui"
+      },
+      {
+        "family": "Bai",
+        "given": "Jiahe"
+      },
+      {
+        "family": "He",
+        "given": "Mingtao"
+      },
+      {
+        "family": "Chen",
+        "given": "Xiangdong"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "Atomic Energy Science and Technology",
+    "DOI": "10.7538/yzk.2025.youxian.0349",
+    "URL": "https://doi.org/10.7538/yzk.2025.youxian.0349",
+    "keyword": "NUC, TRANS, PHYS, CTRL, tier-2, direwolf-relevance-4",
+    "note": "DIREWOLF ID: DW-LIT-0059; rank: 59; tier: Tier 2; relevance: 4/5; verification: verified DOI in source manifest"
+  }
+]
