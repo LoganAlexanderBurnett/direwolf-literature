@@ -16,7 +16,7 @@ KW  - FIELD
 KW  - CTRL
 KW  - SEQ
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0001; rank 1; relevance 5/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0001; rank 1; relevance 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - JOUR
@@ -41,7 +41,7 @@ KW  - QUAD
 KW  - FIELD
 KW  - OPERATOR
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0002; rank 2; relevance 5/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0002; rank 2; relevance 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - JOUR
@@ -60,7 +60,7 @@ KW  - POD
 KW  - FIELD
 KW  - ROM
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0003; rank 3; relevance 5/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0003; rank 3; relevance 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - JOUR
@@ -84,7 +84,7 @@ KW  - POD
 KW  - FIELD
 KW  - ASSIM
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0004; rank 4; relevance 5/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0004; rank 4; relevance 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - JOUR
@@ -105,7 +105,7 @@ KW  - LSTM
 KW  - TRANS
 KW  - MULTI
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0005; rank 5; relevance 5/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0005; rank 5; relevance 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - JOUR
@@ -127,7 +127,7 @@ KW  - GNN
 KW  - FNO
 KW  - FE
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0006; rank 6; relevance 5/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0006; rank 6; relevance 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - CPAPER
@@ -145,8 +145,9 @@ AU  - Hundt, Christian
 AU  - Azizzadenesheli, Kamyar
 AU  - Anandkumar, Anima
 PY  - 2023
-T2  - NeurIPS
-UR  - https://mlanthology.org/neurips/2023/li2023neurips-geometryinformed/
+T2  - Advances in Neural Information Processing Systems 36 (NeurIPS 2023)
+DO  - 10.52202/075280-1556
+UR  - https://doi.org/10.52202/075280-1556
 L2  - https://arxiv.org/abs/2309.00583
 KW  - GINO
 KW  - GNN
@@ -154,7 +155,7 @@ KW  - FNO
 KW  - 3D
 KW  - FE
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0007; rank 7; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0007; rank 7; relevance 5/5; DOI status: verified_publication_doi; Publication DOI verified from the NeurIPS proceedings record.
 ER  - 
 
 TY  - CPAPER
@@ -165,15 +166,16 @@ AU  - Fortunato, Meire
 AU  - Sanchez-Gonzalez, Alvaro
 AU  - Battaglia, Peter
 PY  - 2021
-T2  - ICLR. Author publication, PDF and code links
-UR  - https://tobiaspfaff.com/publication/pfaff-2021-learning/
+T2  - International Conference on Learning Representations (ICLR 2021)
+UR  - https://openreview.net/forum?id=roNqYL0_XP
+L2  - https://openreview.net/forum?id=roNqYL0_XP
 KW  - GNN
 KW  - FE
 KW  - TRANS
 KW  - FIELD
 KW  - ROLLOUT
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0008; rank 8; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0008; rank 8; relevance 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2010.03409; Peer-reviewed ICLR paper. Authoritative conference record has no publication DOI; arXiv DOI retained separately.
 ER  - 
 
 TY  - JOUR
@@ -190,7 +192,7 @@ KW  - SPECTRAL
 KW  - FE
 KW  - FIELD
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0009; rank 9; relevance 5/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0009; rank 9; relevance 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - CPAPER
@@ -200,15 +202,15 @@ AU  - Brandstetter, Johannes
 AU  - Worrall, Daniel E.
 AU  - Welling, Max
 PY  - 2022
-T2  - ICLR. Conference PDF ·
-UR  - https://openreview.net/pdf?id=vSix3HPYKSU
-L2  - https://arxiv.org/abs/2202.03376
+T2  - International Conference on Learning Representations (ICLR 2022)
+UR  - https://openreview.net/forum?id=vSix3HPYKSU
+L2  - https://openreview.net/forum?id=vSix3HPYKSU
 KW  - GNN
 KW  - TRANS
 KW  - ROLLOUT
 KW  - STABILITY
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0010; rank 10; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0010; rank 10; relevance 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2202.03376; Peer-reviewed ICLR paper. No publication DOI in authoritative conference record; arXiv DOI retained separately.
 ER  - 
 
 TY  - CPAPER
@@ -220,7 +222,7 @@ AU  - Wang, Haowen
 AU  - Wang, Jianmin
 AU  - Long, Mingsheng
 PY  - 2024
-T2  - ICML, PMLR 235
+T2  - Proceedings of the 41st International Conference on Machine Learning, PMLR 235:53681-53705
 UR  - https://proceedings.mlr.press/v235/wu24r.html
 L2  - https://proceedings.mlr.press/v235/wu24r.html
 KW  - ATTN
@@ -228,7 +230,7 @@ KW  - FE
 KW  - FIELD
 KW  - 3D
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0011; rank 11; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0011; rank 11; relevance 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2402.02366; PMLR ICML record supplies no publication DOI; arXiv DOI retained separately.
 ER  - 
 
 TY  - CPAPER
@@ -242,7 +244,7 @@ AU  - Di, Yichen
 AU  - Wang, Jianmin
 AU  - Long, Mingsheng
 PY  - 2025
-T2  - ICML, PMLR 267
+T2  - Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:41432-41449
 UR  - https://proceedings.mlr.press/v267/luo25o.html
 L2  - https://proceedings.mlr.press/v267/luo25o.html
 KW  - ATTN
@@ -250,7 +252,7 @@ KW  - 3D
 KW  - SCALE
 KW  - FE
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0012; rank 12; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0012; rank 12; relevance 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2502.02414; PMLR ICML record supplies no publication DOI; arXiv DOI retained separately.
 ER  - 
 
 TY  - JOUR
@@ -261,15 +263,15 @@ AU  - Huang, Daniel Zhengyu
 AU  - Liu, Burigede
 AU  - Anandkumar, Anima
 PY  - 2023
-T2  - JMLR, 24(388), 1–26
+T2  - Journal of Machine Learning Research 24(388):1-26
 UR  - https://jmlr.org/papers/v24/23-0064.html
-L2  - https://arxiv.org/abs/2207.05209
+L2  - https://jmlr.org/papers/v24/23-0064.html
 KW  - FNO
 KW  - GEOM
 KW  - FE
 KW  - FIELD
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0013; rank 13; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0013; rank 13; relevance 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2207.05209; JMLR record has no DOI; arXiv DOI retained separately.
 ER  - 
 
 TY  - CPAPER
@@ -283,7 +285,7 @@ AU  - Bhattacharya, Kaushik
 AU  - Stuart, Andrew
 AU  - Anandkumar, Anima
 PY  - 2021
-T2  - ICLR. Conference /
+T2  - International Conference on Learning Representations (ICLR 2021)
 UR  - https://openreview.net/forum?id=c8P9NQVtmnO
 L2  - https://openreview.net/forum?id=c8P9NQVtmnO
 KW  - FNO
@@ -291,7 +293,7 @@ KW  - OPERATOR
 KW  - TRANS
 KW  - GRID
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0014; rank 14; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0014; rank 14; relevance 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2010.08895; Peer-reviewed ICLR paper; no publication DOI in authoritative conference record.
 ER  - 
 
 TY  - JOUR
@@ -311,7 +313,7 @@ KW  - FIELD
 KW  - CTRL
 KW  - OPERATOR
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0015; rank 15; relevance 5/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0015; rank 15; relevance 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - JOUR
@@ -330,10 +332,10 @@ KW  - PINN
 KW  - PHYS
 KW  - TRANS
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0016; rank 16; relevance 5/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0016; rank 16; relevance 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
-TY  - UNPB
+TY  - JOUR
 ID  - DW-LIT-0017
 TI  - Physics-Informed Neural Operator for Learning Partial Differential Equations
 AU  - Li, Zongyi
@@ -345,15 +347,16 @@ AU  - Liu, Burigede
 AU  - Azizzadenesheli, Kamyar
 AU  - Anandkumar, Anima
 PY  - 2024
-T2  - Caltech accepted-manuscript record · arXiv. Accepted version deposited 2024; definitive journal venue/DOI not verified in this search. Code: NV
-UR  - https://authors.library.caltech.edu/records/06m4r-8jf10
-L2  - https://arxiv.org/abs/2111.03794
+T2  - ACM/IMS Journal of Data Science 1(3):1-27
+DO  - 10.1145/3648506
+UR  - https://doi.org/10.1145/3648506
+L2  - https://authors.library.caltech.edu/records/06m4r-8jf10
 KW  - FNO
 KW  - PINN
 KW  - PHYS
 KW  - DATA
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0017; rank 17; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0017; rank 17; relevance 5/5; DOI status: verified_publication_doi; preprint DOI: 10.48550/arXiv.2111.03794; Originally tracked as an accepted manuscript/preprint; definitive journal publication identified and verified.
 ER  - 
 
 TY  - JOUR
@@ -362,12 +365,14 @@ TI  - Non-intrusive reduced order modeling of nonlinear problems using neural ne
 AU  - Hesthaven, Jan S.
 AU  - Ubbiali, Stefano
 PY  - 2018
-T2  - Journal of Computational Physics, 363, 55–78
+T2  - Journal of Computational Physics 363:55-78
+DO  - 10.1016/j.jcp.2018.02.037
+UR  - https://doi.org/10.1016/j.jcp.2018.02.037
 KW  - POD
 KW  - ROM
 KW  - DATA
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0018; rank 18; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0018; rank 18; relevance 5/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -376,13 +381,15 @@ TI  - Data-driven operator inference for nonintrusive projection-based model red
 AU  - Peherstorfer, Benjamin
 AU  - Willcox, Karen
 PY  - 2016
-T2  - CMAME, 306, 196–215
+T2  - Computer Methods in Applied Mechanics and Engineering 306:196-215
+DO  - 10.1016/j.cma.2016.03.025
+UR  - https://doi.org/10.1016/j.cma.2016.03.025
 KW  - POD
 KW  - OPINF
 KW  - TRANS
 KW  - CTRL
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0019; rank 19; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0019; rank 19; relevance 5/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -391,13 +398,16 @@ TI  - Model reduction of dynamical systems on nonlinear manifolds using deep con
 AU  - Lee, Kookjin
 AU  - Carlberg, Kevin T
 PY  - 2020
-T2  - Journal of Computational Physics, 404, 108973
+T2  - Journal of Computational Physics 404:108973
+DO  - 10.1016/j.jcp.2019.108973
+UR  - https://doi.org/10.1016/j.jcp.2019.108973
+L2  - https://www.osti.gov/biblio/1593338
 KW  - LAT
 KW  - AE
 KW  - ROM
 KW  - TRANS
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0020; rank 20; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0020; rank 20; relevance 5/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -408,13 +418,15 @@ AU  - Kramer, Boris
 AU  - Peherstorfer, Benjamin
 AU  - Willcox, Karen
 PY  - 2020
-T2  - Physica D, 406, 132401
+T2  - Physica D: Nonlinear Phenomena 406:132401
+DO  - 10.1016/j.physd.2020.132401
+UR  - https://doi.org/10.1016/j.physd.2020.132401
 KW  - OPINF
 KW  - ROM
 KW  - PHYS
 KW  - MULTI
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0021; rank 21; relevance 5/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0021; rank 21; relevance 5/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -432,7 +444,7 @@ KW  - DON
 KW  - FIELD
 KW  - STATIC
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0022; rank 22; relevance 4/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0022; rank 22; relevance 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - JOUR
@@ -452,7 +464,7 @@ KW  - HYBRID
 KW  - OPERATOR
 KW  - PHYS
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0023; rank 23; relevance 4/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0023; rank 23; relevance 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - JOUR
@@ -473,7 +485,7 @@ KW  - MULTI
 KW  - TRANS
 KW  - DATA
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0024; rank 24; relevance 4/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0024; rank 24; relevance 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - JOUR
@@ -493,7 +505,7 @@ KW  - FNO
 KW  - MULTI
 KW  - PHYS
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0025; rank 25; relevance 4/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0025; rank 25; relevance 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - JOUR
@@ -503,13 +515,15 @@ AU  - Gao, Han
 AU  - Sun, Luning
 AU  - Wang, Jian-Xun
 PY  - 2021
-T2  - Journal of Computational Physics, 428, 110079
+T2  - Journal of Computational Physics 428:110079
+DO  - 10.1016/j.jcp.2020.110079
+UR  - https://doi.org/10.1016/j.jcp.2020.110079
 KW  - GEOM
 KW  - PINN
 KW  - FIELD
 KW  - STATIC
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0026; rank 26; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0026; rank 26; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified; official code repository verified through GitHub.
 ER  - 
 
 TY  - JOUR
@@ -520,13 +534,15 @@ AU  - Zabaras, Nicholas
 AU  - Koutsourelakis, Phaedon-Stelios
 AU  - Perdikaris, Paris
 PY  - 2019
-T2  - Journal of Computational Physics, 394, 56–81
+T2  - Journal of Computational Physics 394:56-81
+DO  - 10.1016/j.jcp.2019.05.024
+UR  - https://doi.org/10.1016/j.jcp.2019.05.024
 KW  - PHYS
 KW  - UQ
 KW  - FIELD
 KW  - DATA
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0027; rank 27; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0027; rank 27; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -535,13 +551,15 @@ TI  - Bayesian deep convolutional encoder–decoder networks for surrogate model
 AU  - Zhu, Yinhao
 AU  - Zabaras, Nicholas
 PY  - 2018
-T2  - Journal of Computational Physics, 366, 415–447
+T2  - Journal of Computational Physics 366:415-447
+DO  - 10.1016/j.jcp.2018.04.018
+UR  - https://doi.org/10.1016/j.jcp.2018.04.018
 KW  - AE
 KW  - UQ
 KW  - FIELD
 KW  - GRID
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0028; rank 28; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0028; rank 28; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - CPAPER
@@ -553,14 +571,15 @@ AU  - Pfaff, Tobias
 AU  - Wang, Jian-Xun
 AU  - Liu, Li-Ping
 PY  - 2022
-T2  - ICLR. Author publication record
-UR  - https://tobiaspfaff.com/publication/
+T2  - International Conference on Learning Representations (ICLR 2022)
+UR  - https://openreview.net/forum?id=XctLdNfCmP
+L2  - https://openreview.net/forum?id=XctLdNfCmP
 KW  - LAT
 KW  - ATTN
 KW  - TRANS
 KW  - FE
 KW  - tier-1
-N1  - DIREWOLF ID: DW-LIT-0029; rank 29; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0029; rank 29; relevance 4/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2201.09113; Peer-reviewed ICLR 2022 paper; no publication DOI in authoritative record.
 ER  - 
 
 TY  - JOUR
@@ -579,7 +598,7 @@ KW  - PINN
 KW  - TRANS
 KW  - PHYS
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0030; rank 30; relevance 4/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0030; rank 30; relevance 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - CPAPER
@@ -597,7 +616,7 @@ UR  - https://doi.org/10.1109/CVPR.2018.00274
 KW  - PC
 KW  - GEOM
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0031; rank 31; relevance 4/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0031; rank 31; relevance 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
 TY  - JOUR
@@ -607,12 +626,14 @@ AU  - Benner, Peter
 AU  - Gugercin, Serkan
 AU  - Willcox, Karen
 PY  - 2015
-T2  - SIAM Review, 57, 483–531
+T2  - SIAM Review 57(4):483-531
+DO  - 10.1137/130932715
+UR  - https://doi.org/10.1137/130932715
 KW  - ROM
 KW  - POD
 KW  - VV
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0032; rank 32; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0032; rank 32; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -621,12 +642,14 @@ TI  - Nonlinear Model Reduction via Discrete Empirical Interpolation
 AU  - Chaturantabut, Saifon
 AU  - Sorensen, Danny C
 PY  - 2010
-T2  - SIAM Journal on Scientific Computing, 32, 2737–2764
+T2  - SIAM Journal on Scientific Computing 32(5):2737-2764
+DO  - 10.1137/090766498
+UR  - https://doi.org/10.1137/090766498
 KW  - ROM
 KW  - DEIM
 KW  - PHYS
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0033; rank 33; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0033; rank 33; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -637,13 +660,15 @@ AU  - Farhat, Charbel
 AU  - Cortial, Julien
 AU  - Amsallem, David
 PY  - 2013
-T2  - Journal of Computational Physics, 242, 623–647
+T2  - Journal of Computational Physics 242:623-647
+DO  - 10.1016/j.jcp.2013.02.028
+UR  - https://doi.org/10.1016/j.jcp.2013.02.028
 KW  - ROM
 KW  - GNAT
 KW  - FE
 KW  - VV
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0034; rank 34; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0034; rank 34; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -651,12 +676,14 @@ ID  - DW-LIT-0035
 TI  - Dynamic mode decomposition of numerical and experimental data
 AU  - Schmid, Peter J
 PY  - 2010
-T2  - Journal of Fluid Mechanics, 656, 5–28
+T2  - Journal of Fluid Mechanics 656:5-28
+DO  - 10.1017/S0022112010001217
+UR  - https://doi.org/10.1017/S0022112010001217
 KW  - DMD
 KW  - TRANS
 KW  - ROM
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0035; rank 35; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0035; rank 35; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -666,12 +693,14 @@ AU  - Berkooz, Gal
 AU  - Holmes, Philip
 AU  - Lumley, John L
 PY  - 1993
-T2  - Annual Review of Fluid Mechanics, 25, 539–575
+T2  - Annual Review of Fluid Mechanics 25:539-575
+DO  - 10.1146/annurev.fl.25.010193.002543
+UR  - https://doi.org/10.1146/annurev.fl.25.010193.002543
 KW  - POD
 KW  - ROM
 KW  - VV
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0036; rank 36; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0036; rank 36; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -680,12 +709,14 @@ TI  - Balanced Model Reduction via the Proper Orthogonal Decomposition
 AU  - Willcox, Karen
 AU  - Peraire, Jaime
 PY  - 2002
-T2  - AIAA Journal, 40, 2323–2330
+T2  - AIAA Journal 40(11):2323-2330
+DO  - 10.2514/2.1570
+UR  - https://doi.org/10.2514/2.1570
 KW  - POD
 KW  - CTRL
 KW  - QOI
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0037; rank 37; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0037; rank 37; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -696,30 +727,33 @@ AU  - Hosseini, Bamdad
 AU  - Kovachki, Nikola B.
 AU  - Stuart, Andrew M
 PY  - 2021
-T2  - SMAI Journal of Computational Mathematics, 7, 121–157
+T2  - SMAI Journal of Computational Mathematics 7:121-157
+DO  - 10.5802/smai-jcm.74
+UR  - https://doi.org/10.5802/smai-jcm.74
 KW  - ROM
 KW  - OPERATOR
 KW  - DATA
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0038; rank 38; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0038; rank 38; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
-TY  - UNPB
+TY  - JOUR
 ID  - DW-LIT-0039
-TI  - Neural-Network-Augmented Projection-Based Model Order Reduction for Mitigating the Kolmogorov Barrier to Reducibility of CFD Models
+TI  - Neural-network-augmented projection-based model order reduction for mitigating the Kolmogorov barrier to reducibility
 AU  - Barnett, Joshua L.
 AU  - Farhat, Charbel
 AU  - Maday, Yvon
-PY  - 2022
-T2  - preprint
-UR  - https://arxiv.org/abs/2212.08939
+PY  - 2023
+T2  - Journal of Computational Physics 492:112420
+DO  - 10.1016/j.jcp.2023.112420
+UR  - https://doi.org/10.1016/j.jcp.2023.112420
 L2  - https://arxiv.org/abs/2212.08939
 KW  - POD
 KW  - LAT
 KW  - ROM
 KW  - FIELD
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0039; rank 39; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0039; rank 39; relevance 4/5; DOI status: verified_publication_doi; preprint DOI: 10.48550/arXiv.2212.08939; Peer-reviewed journal version identified; canonical published title differs slightly from the original preprint title retained in source provenance.
 ER  - 
 
 TY  - UNPB
@@ -733,14 +767,14 @@ AU  - Bhattacharya, Kaushik
 AU  - Stuart, Andrew
 AU  - Anandkumar, Anima
 PY  - 2020
-T2  - preprint
+T2  - arXiv:2003.03485
 UR  - https://arxiv.org/abs/2003.03485
 L2  - https://arxiv.org/abs/2003.03485
 KW  - GNO
 KW  - FE
 KW  - OPERATOR
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0040; rank 40; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0040; rank 40; relevance 4/5; DOI status: preprint_only_no_publication_doi; preprint DOI: 10.48550/arXiv.2003.03485; Verified as an arXiv/CoRR preprint rather than a separate peer-reviewed publication; arXiv DOI retained only as preprint DOI.
 ER  - 
 
 TY  - UNPB
@@ -752,26 +786,29 @@ AU  - Wirnsberger, Peter
 AU  - Pritzel, Alexander
 AU  - Battaglia, Peter
 PY  - 2022
-T2  - preprint. Research-group publication index
-UR  - https://tobiaspfaff.com/publication/
+T2  - arXiv:2210.00612
+UR  - https://arxiv.org/abs/2210.00612
+L2  - https://arxiv.org/abs/2210.00612
 KW  - GNN
 KW  - MULTISCALE
 KW  - FE
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0041; rank 41; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0041; rank 41; relevance 4/5; DOI status: preprint_only_no_publication_doi; preprint DOI: 10.48550/arXiv.2210.00612; Verified as arXiv-only in the authors' publication listing; arXiv DOI retained separately.
 ER  - 
 
 TY  - JOUR
 ID  - DW-LIT-0042
-TI  - Neural Operator: Learning Maps Between Function Spaces
+TI  - Neural Operator: Learning Maps Between Function Spaces With Applications to PDEs
 AU  - Kovachki, Nikola et al
 PY  - 2023
-T2  - Journal of Machine Learning Research. Full author list,
+T2  - Journal of Machine Learning Research 24(89):1-97
+UR  - https://jmlr.org/papers/v24/21-1524.html
+L2  - https://jmlr.org/papers/v24/21-1524.html
 KW  - OPERATOR
 KW  - THEORY
 KW  - VV
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0042; rank 42; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0042; rank 42; relevance 4/5; DOI status: authoritative_record_no_publication_doi; Canonical JMLR title and venue verified; JMLR record has no DOI.
 ER  - 
 
 TY  - JOUR
@@ -782,12 +819,14 @@ AU  - Kontolati, Katiana
 AU  - Shields, Michael D.
 AU  - Karniadakis, George Em
 PY  - 2022
-T2  - Nature Machine Intelligence, 4, 1155–1164
+T2  - Nature Machine Intelligence 4:1155-1164
+DO  - 10.1038/s42256-022-00569-2
+UR  - https://doi.org/10.1038/s42256-022-00569-2
 KW  - DON
 KW  - TRANSFER
 KW  - OOD
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0043; rank 43; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0043; rank 43; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -797,12 +836,14 @@ AU  - Gao, Han
 AU  - Kaltenbach, Sebastian
 AU  - Koumoutsakos, Petros
 PY  - 2025
-T2  - CMAME, 435, 117654
+T2  - Computer Methods in Applied Mechanics and Engineering 435:117654
+DO  - 10.1016/j.cma.2024.117654
+UR  - https://doi.org/10.1016/j.cma.2024.117654
 KW  - GEN
 KW  - UQ
 KW  - FIELD
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0044; rank 44; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0044; rank 44; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -816,12 +857,14 @@ AU  - Cai, Shengze
 AU  - Fan, Hongguang
 AU  - Gao, Qi
 PY  - 2024
-T2  - Engineering Applications of Artificial Intelligence, 136, 108896
+T2  - Engineering Applications of Artificial Intelligence 136:108896
+DO  - 10.1016/j.engappai.2024.108896
+UR  - https://doi.org/10.1016/j.engappai.2024.108896
 KW  - GNN
 KW  - FIELD
 KW  - TRANS
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0045; rank 45; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0045; rank 45; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - CPAPER
@@ -831,26 +874,31 @@ AU  - Shen, Yiren
 AU  - Needels, Jacob T.
 AU  - Alonso, Juan J
 PY  - 2025
-T2  - AIAA SciTech, paper 0494
+T2  - AIAA SciTech Forum 2025, paper 0494
+DO  - 10.2514/6.2025-0494
+UR  - https://doi.org/10.2514/6.2025-0494
 KW  - GNN
 KW  - MF
 KW  - FIELD
 KW  - DATA
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0046; rank 46; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0046; rank 46; relevance 4/5; DOI status: verified_publication_doi; Conference-paper DOI verified.
 ER  - 
 
-TY  - CPAPER
+TY  - JOUR
 ID  - DW-LIT-0047
 TI  - Choose a Transformer: Fourier or Galerkin
 AU  - Cao, Shuhao
 PY  - 2021
-T2  - NeurIPS, 24924–24940
+T2  - Advances in Neural Information Processing Systems 34:24924-24940
+DO  - 10.5555/3540261.3542170
+UR  - https://doi.org/10.5555/3540261.3542170
+L2  - https://papers.nips.cc/paper/2021/hash/d0921d442ee91b896ad95059d13df618-Abstract.html
 KW  - ATTN
 KW  - OPERATOR
 KW  - FIELD
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0047; rank 47; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0047; rank 47; relevance 4/5; DOI status: verified_proceedings_doi; preprint DOI: 10.48550/arXiv.2105.14995; Proceedings DOI/identifier verified through later scholarly references and ACM-linked citation; arXiv DOI retained separately.
 ER  - 
 
 TY  - CPAPER
@@ -859,15 +907,17 @@ TI  - Positional Knowledge Is All You Need: Position-Induced Transformer (PiT) f
 AU  - Chen, Junfeng
 AU  - Wu, Kailiang
 PY  - 2024
-T2  - ICML
+T2  - Proceedings of the 41st International Conference on Machine Learning, PMLR 235:7526-7552
+UR  - https://proceedings.mlr.press/v235/chen24au.html
+L2  - https://proceedings.mlr.press/v235/chen24au.html
 KW  - ATTN
 KW  - GEOM
 KW  - OPERATOR
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0048; rank 48; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0048; rank 48; relevance 4/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2405.09285; PMLR ICML record supplies no publication DOI; arXiv DOI retained separately.
 ER  - 
 
-TY  - UNPB
+TY  - CPAPER
 ID  - DW-LIT-0049
 TI  - Neural Operators with Localized Integral and Differential Kernels
 AU  - Liu-Schiaffini, Miguel
@@ -877,19 +927,19 @@ AU  - Kurth, Thorsten
 AU  - Azizzadenesheli, Kamyar
 AU  - Anandkumar, Anima
 PY  - 2024
-T2  - preprint
-UR  - https://arxiv.org/abs/2402.16845
-L2  - https://arxiv.org/abs/2402.16845
+T2  - Proceedings of the 41st International Conference on Machine Learning, PMLR 235:32576-32594
+UR  - https://proceedings.mlr.press/v235/liu-schiaffini24a.html
+L2  - https://proceedings.mlr.press/v235/liu-schiaffini24a.html
 KW  - OPERATOR
 KW  - LOCAL
 KW  - FE
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0049; rank 49; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0049; rank 49; relevance 4/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2402.16845; PMLR/DBLP records supply no publication DOI; arXiv DOI retained separately.
 ER  - 
 
-TY  - UNPB
+TY  - JOUR
 ID  - DW-LIT-0050
-TI  - DiMON: Learning Solution Operators of Partial Differential Equations on a Diffeomorphic Family of Domains
+TI  - A scalable framework for learning the geometry-dependent solution operators of partial differential equations
 AU  - Yin, Minglang
 AU  - Charon, Nicolas
 AU  - Brody, Ryan
@@ -897,14 +947,15 @@ AU  - Lu, Lu
 AU  - Trayanova, Natalia
 AU  - Maggioni, Mauro
 PY  - 2024
-T2  - preprint
-UR  - https://arxiv.org/abs/2402.07250
+T2  - Nature Computational Science 4:928-940
+DO  - 10.1038/s43588-024-00732-2
+UR  - https://doi.org/10.1038/s43588-024-00732-2
 L2  - https://arxiv.org/abs/2402.07250
 KW  - GEOM
 KW  - DON
 KW  - OPERATOR
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0050; rank 50; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0050; rank 50; relevance 4/5; DOI status: verified_publication_doi; preprint DOI: 10.48550/arXiv.2402.07250; DIMON preprint was published under a different canonical title; published title/DOI now used, while the preprint DOI is retained separately.
 ER  - 
 
 TY  - UNPB
@@ -914,14 +965,14 @@ AU  - Xiao, Shanshan
 AU  - Jin, Pengzhan
 AU  - Tang, Yifa
 PY  - 2024
-T2  - preprint
+T2  - arXiv:2402.15097
 UR  - https://arxiv.org/abs/2402.15097
 L2  - https://arxiv.org/abs/2402.15097
 KW  - DON
 KW  - GEOM
 KW  - MULTI
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0051; rank 51; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0051; rank 51; relevance 4/5; DOI status: preprint_only_no_publication_doi; preprint DOI: 10.48550/arXiv.2402.15097; This exact MIONet title remains a preprint. A later related SIAM paper has a different title and is not treated as the same publication.
 ER  - 
 
 TY  - JOUR
@@ -931,12 +982,14 @@ AU  - Cao, Wenbo
 AU  - Song, Jiahao
 AU  - Zhang, Weiwei
 PY  - 2024
-T2  - Journal of Computational Physics, 516, 113285
+T2  - Journal of Computational Physics 516:113285
+DO  - 10.1016/j.jcp.2024.113285
+UR  - https://doi.org/10.1016/j.jcp.2024.113285
 KW  - PINN
 KW  - FIELD
 KW  - GEOM
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0052; rank 52; relevance 3/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0052; rank 52; relevance 3/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -945,46 +998,48 @@ TI  - Gabor-Filtered Fourier Neural Operator for Solving Partial Differential Eq
 AU  - Qi, Kai
 AU  - Sun, Jian
 PY  - 2024
-T2  - Computers & Fluids, 274, 106239
+T2  - Computers & Fluids 274:106239
+DO  - 10.1016/j.compfluid.2024.106239
+UR  - https://doi.org/10.1016/j.compfluid.2024.106239
 KW  - FNO
 KW  - SPECTRAL
 KW  - FIELD
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0053; rank 53; relevance 3/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0053; rank 53; relevance 3/5; DOI status: verified_publication_doi; Journal DOI and official code repository verified.
 ER  - 
 
-TY  - UNPB
+TY  - CPAPER
 ID  - DW-LIT-0054
 TI  - Factorized Fourier Neural Operators
 AU  - Tran, Alasdair
 AU  - Mathews, Alexander
 AU  - Xie, Lexing
 AU  - Ong, Cheng Soon
-PY  - 2021
-T2  - preprint
-UR  - https://arxiv.org/abs/2111.13802
-L2  - https://arxiv.org/abs/2111.13802
+PY  - 2023
+T2  - The Eleventh International Conference on Learning Representations (ICLR 2023)
+UR  - https://openreview.net/forum?id=tmIiMPl4IPa
+L2  - https://openreview.net/forum?id=tmIiMPl4IPa
 KW  - FNO
 KW  - SCALE
 KW  - GRID
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0054; rank 54; relevance 3/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0054; rank 54; relevance 3/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2111.13802; Peer-reviewed ICLR 2023 publication verified; no publication DOI in conference record. Original manifest incorrectly left venue/publication status unresolved.
 ER  - 
 
-TY  - UNPB
+TY  - CPAPER
 ID  - DW-LIT-0055
-TI  - MGNO: Efficient Parameterization of Linear Operators via Multigrid
+TI  - MgNO: Efficient Parameterization of Linear Operators via Multigrid
 AU  - He, Juncai
 AU  - Liu, Xinliang
 AU  - Xu, Jinchao
-PY  - 2023
-T2  - preprint
-UR  - https://arxiv.org/abs/2310.19809
-L2  - https://arxiv.org/abs/2310.19809
+PY  - 2024
+T2  - International Conference on Learning Representations (ICLR 2024)
+UR  - https://openreview.net/forum?id=8OxL034uEr
+L2  - https://openreview.net/forum?id=8OxL034uEr
 KW  - OPERATOR
 KW  - MULTISCALE
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0055; rank 55; relevance 3/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0055; rank 55; relevance 3/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2310.19809; Peer-reviewed ICLR 2024 publication verified; no publication DOI in authoritative conference record.
 ER  - 
 
 TY  - JOUR
@@ -993,13 +1048,15 @@ TI  - Reduced order modeling for nonlinear structural analysis using Gaussian pr
 AU  - Guo, Mengwu
 AU  - Hesthaven, Jan S
 PY  - 2018
-T2  - CMAME, 341, 807–826
+T2  - Computer Methods in Applied Mechanics and Engineering 341:807-826
+DO  - 10.1016/j.cma.2018.07.017
+UR  - https://doi.org/10.1016/j.cma.2018.07.017
 KW  - POD
 KW  - GP
 KW  - UQ
 KW  - DATA
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0056; rank 56; relevance 4/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0056; rank 56; relevance 4/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -1009,12 +1066,14 @@ AU  - Williams, Matthew O.
 AU  - Kevrekidis, Ioannis G.
 AU  - Rowley, Clarence W
 PY  - 2015
-T2  - Journal of Nonlinear Science, 25, 1307–1346
+T2  - Journal of Nonlinear Science 25(6):1307-1346
+DO  - 10.1007/s00332-015-9258-5
+UR  - https://doi.org/10.1007/s00332-015-9258-5
 KW  - KOOP
 KW  - ROM
 KW  - TRANS
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0057; rank 57; relevance 3/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0057; rank 57; relevance 3/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -1026,12 +1085,14 @@ AU  - Bagheri, Shervin
 AU  - Schlatter, Philipp
 AU  - Henningson, Dan S
 PY  - 2009
-T2  - Journal of Fluid Mechanics, 641, 115–127
+T2  - Journal of Fluid Mechanics 641:115-127
+DO  - 10.1017/S0022112009992059
+UR  - https://doi.org/10.1017/S0022112009992059
 KW  - KOOP
 KW  - DMD
 KW  - TRANS
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0058; rank 58; relevance 3/5; bibliographic record identified; DOI unresolved
+N1  - DIREWOLF ID: DW-LIT-0058; rank 58; relevance 3/5; DOI status: verified_publication_doi; Journal DOI verified.
 ER  - 
 
 TY  - JOUR
@@ -1052,6 +1113,6 @@ KW  - TRANS
 KW  - PHYS
 KW  - CTRL
 KW  - tier-2
-N1  - DIREWOLF ID: DW-LIT-0059; rank 59; relevance 4/5; verified DOI in source manifest
+N1  - DIREWOLF ID: DW-LIT-0059; rank 59; relevance 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest.
 ER  - 
 
