@@ -38,7 +38,7 @@ Every ranked paper has a stable ID `DW-LIT-0001` through `DW-LIT-0059`. **Do not
 
 ## Corpus status
 
-The source manifest explicitly verified 16 DOIs. Missing DOI fields are deliberately unresolved rather than guessed. See [`docs/VALIDATION_REPORT.md`](docs/VALIDATION_REPORT.md) for record counts and limitations.
+After the October 10, 2026 source-by-source resolution pass, **44 of 59 records have a verified publication/proceedings DOI**. Twelve peer-reviewed records have authoritative venue entries with no publication DOI, and three records are preprint-only. arXiv/DataCite DOIs are stored separately as `preprint_doi` rather than being substituted for publication DOIs. See [`docs/VALIDATION_REPORT.md`](docs/VALIDATION_REPORT.md) and [`docs/METADATA_RESOLUTION_2026-10-10.md`](docs/METADATA_RESOLUTION_2026-10-10.md) for the audit trail.
 
 The original unresolved ScienceDirect seed `S0306454926007425` is **not** represented as a fabricated bibliography item.
 
