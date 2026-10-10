@@ -32,7 +32,7 @@
     "DOI": "10.1016/j.net.2024.04.007",
     "URL": "https://doi.org/10.1016/j.net.2024.04.007",
     "keyword": "NUC, TRANS, FIELD, CTRL, SEQ, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0001; rank: 1; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0001; rank: 1; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0002",
@@ -83,7 +83,7 @@
     "DOI": "10.1016/j.cma.2025.118022",
     "URL": "https://doi.org/10.1016/j.cma.2025.118022",
     "keyword": "PC, FE, QUAD, FIELD, OPERATOR, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0002; rank: 2; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0002; rank: 2; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0003",
@@ -118,7 +118,7 @@
     "DOI": "10.1080/00295639.2021.2014752",
     "URL": "https://doi.org/10.1080/00295639.2021.2014752",
     "keyword": "NUC, POD, FIELD, ROM, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0003; rank: 3; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0003; rank: 3; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0004",
@@ -165,7 +165,7 @@
     "DOI": "10.1016/j.anucene.2022.109431",
     "URL": "https://doi.org/10.1016/j.anucene.2022.109431",
     "keyword": "NUC, LAT, POD, FIELD, ASSIM, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0004; rank: 4; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0004; rank: 4; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0005",
@@ -204,7 +204,7 @@
     "DOI": "10.1016/j.pnucene.2025.105769",
     "URL": "https://doi.org/10.1016/j.pnucene.2025.105769",
     "keyword": "NUC, FNO, LSTM, TRANS, MULTI, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0005; rank: 5; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0005; rank: 5; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0006",
@@ -247,7 +247,7 @@
     "DOI": "10.1016/j.icheatmasstransfer.2026.111125",
     "URL": "https://doi.org/10.1016/j.icheatmasstransfer.2026.111125",
     "keyword": "THERM, TRANS, GNN, FNO, FE, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0006; rank: 6; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0006; rank: 6; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0007",
@@ -306,10 +306,11 @@
         ]
       ]
     },
-    "container-title": "NeurIPS",
-    "URL": "https://mlanthology.org/neurips/2023/li2023neurips-geometryinformed/",
+    "container-title": "Advances in Neural Information Processing Systems 36 (NeurIPS 2023)",
+    "DOI": "10.52202/075280-1556",
+    "URL": "https://doi.org/10.52202/075280-1556",
     "keyword": "GINO, GNN, FNO, 3D, FE, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0007; rank: 7; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0007; rank: 7; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi; Publication DOI verified from the NeurIPS proceedings record."
   },
   {
     "id": "DW-LIT-0008",
@@ -340,10 +341,10 @@
         ]
       ]
     },
-    "container-title": "ICLR. Author publication, PDF and code links",
-    "URL": "https://tobiaspfaff.com/publication/pfaff-2021-learning/",
+    "container-title": "International Conference on Learning Representations (ICLR 2021)",
+    "URL": "https://openreview.net/forum?id=roNqYL0_XP",
     "keyword": "GNN, FE, TRANS, FIELD, ROLLOUT, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0008; rank: 8; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0008; rank: 8; tier: Tier 1; relevance: 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2010.03409; Peer-reviewed ICLR paper. Authoritative conference record has no publication DOI; arXiv DOI retained separately."
   },
   {
     "id": "DW-LIT-0009",
@@ -370,7 +371,7 @@
     "DOI": "10.1016/j.cma.2024.117659",
     "URL": "https://doi.org/10.1016/j.cma.2024.117659",
     "keyword": "GNN, SPECTRAL, FE, FIELD, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0009; rank: 9; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0009; rank: 9; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0010",
@@ -397,10 +398,10 @@
         ]
       ]
     },
-    "container-title": "ICLR. Conference PDF ·",
-    "URL": "https://openreview.net/pdf?id=vSix3HPYKSU",
+    "container-title": "International Conference on Learning Representations (ICLR 2022)",
+    "URL": "https://openreview.net/forum?id=vSix3HPYKSU",
     "keyword": "GNN, TRANS, ROLLOUT, STABILITY, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0010; rank: 10; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0010; rank: 10; tier: Tier 1; relevance: 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2202.03376; Peer-reviewed ICLR paper. No publication DOI in authoritative conference record; arXiv DOI retained separately."
   },
   {
     "id": "DW-LIT-0011",
@@ -435,10 +436,10 @@
         ]
       ]
     },
-    "container-title": "ICML, PMLR 235",
+    "container-title": "Proceedings of the 41st International Conference on Machine Learning, PMLR 235:53681-53705",
     "URL": "https://proceedings.mlr.press/v235/wu24r.html",
     "keyword": "ATTN, FE, FIELD, 3D, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0011; rank: 11; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0011; rank: 11; tier: Tier 1; relevance: 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2402.02366; PMLR ICML record supplies no publication DOI; arXiv DOI retained separately."
   },
   {
     "id": "DW-LIT-0012",
@@ -481,10 +482,10 @@
         ]
       ]
     },
-    "container-title": "ICML, PMLR 267",
+    "container-title": "Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:41432-41449",
     "URL": "https://proceedings.mlr.press/v267/luo25o.html",
     "keyword": "ATTN, 3D, SCALE, FE, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0012; rank: 12; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0012; rank: 12; tier: Tier 1; relevance: 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2502.02414; PMLR ICML record supplies no publication DOI; arXiv DOI retained separately."
   },
   {
     "id": "DW-LIT-0013",
@@ -515,10 +516,10 @@
         ]
       ]
     },
-    "container-title": "JMLR, 24(388), 1–26",
+    "container-title": "Journal of Machine Learning Research 24(388):1-26",
     "URL": "https://jmlr.org/papers/v24/23-0064.html",
     "keyword": "FNO, GEOM, FE, FIELD, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0013; rank: 13; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0013; rank: 13; tier: Tier 1; relevance: 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2207.05209; JMLR record has no DOI; arXiv DOI retained separately."
   },
   {
     "id": "DW-LIT-0014",
@@ -561,10 +562,10 @@
         ]
       ]
     },
-    "container-title": "ICLR. Conference /",
+    "container-title": "International Conference on Learning Representations (ICLR 2021)",
     "URL": "https://openreview.net/forum?id=c8P9NQVtmnO",
     "keyword": "FNO, OPERATOR, TRANS, GRID, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0014; rank: 14; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0014; rank: 14; tier: Tier 1; relevance: 5/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2010.08895; Peer-reviewed ICLR paper; no publication DOI in authoritative conference record."
   },
   {
     "id": "DW-LIT-0015",
@@ -603,7 +604,7 @@
     "DOI": "10.1038/s42256-021-00302-5",
     "URL": "https://doi.org/10.1038/s42256-021-00302-5",
     "keyword": "DON, FIELD, CTRL, OPERATOR, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0015; rank: 15; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0015; rank: 15; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0016",
@@ -634,11 +635,11 @@
     "DOI": "10.1126/sciadv.abi8605",
     "URL": "https://doi.org/10.1126/sciadv.abi8605",
     "keyword": "DON, PINN, PHYS, TRANS, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0016; rank: 16; tier: Tier 1; relevance: 5/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0016; rank: 16; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0017",
-    "type": "article",
+    "type": "article-journal",
     "title": "Physics-Informed Neural Operator for Learning Partial Differential Equations",
     "author": [
       {
@@ -681,10 +682,11 @@
         ]
       ]
     },
-    "container-title": "Caltech accepted-manuscript record · arXiv. Accepted version deposited 2024; definitive journal venue/DOI not verified in this search. Code: NV",
-    "URL": "https://authors.library.caltech.edu/records/06m4r-8jf10",
+    "container-title": "ACM/IMS Journal of Data Science 1(3):1-27",
+    "DOI": "10.1145/3648506",
+    "URL": "https://doi.org/10.1145/3648506",
     "keyword": "FNO, PINN, PHYS, DATA, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0017; rank: 17; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0017; rank: 17; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi; preprint DOI: 10.48550/arXiv.2111.03794; Originally tracked as an accepted manuscript/preprint; definitive journal publication identified and verified."
   },
   {
     "id": "DW-LIT-0018",
@@ -707,9 +709,11 @@
         ]
       ]
     },
-    "container-title": "Journal of Computational Physics, 363, 55–78",
+    "container-title": "Journal of Computational Physics 363:55-78",
+    "DOI": "10.1016/j.jcp.2018.02.037",
+    "URL": "https://doi.org/10.1016/j.jcp.2018.02.037",
     "keyword": "POD, ROM, DATA, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0018; rank: 18; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0018; rank: 18; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0019",
@@ -732,9 +736,11 @@
         ]
       ]
     },
-    "container-title": "CMAME, 306, 196–215",
+    "container-title": "Computer Methods in Applied Mechanics and Engineering 306:196-215",
+    "DOI": "10.1016/j.cma.2016.03.025",
+    "URL": "https://doi.org/10.1016/j.cma.2016.03.025",
     "keyword": "POD, OPINF, TRANS, CTRL, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0019; rank: 19; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0019; rank: 19; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0020",
@@ -757,9 +763,11 @@
         ]
       ]
     },
-    "container-title": "Journal of Computational Physics, 404, 108973",
+    "container-title": "Journal of Computational Physics 404:108973",
+    "DOI": "10.1016/j.jcp.2019.108973",
+    "URL": "https://doi.org/10.1016/j.jcp.2019.108973",
     "keyword": "LAT, AE, ROM, TRANS, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0020; rank: 20; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0020; rank: 20; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0021",
@@ -790,9 +798,11 @@
         ]
       ]
     },
-    "container-title": "Physica D, 406, 132401",
+    "container-title": "Physica D: Nonlinear Phenomena 406:132401",
+    "DOI": "10.1016/j.physd.2020.132401",
+    "URL": "https://doi.org/10.1016/j.physd.2020.132401",
     "keyword": "OPINF, ROM, PHYS, MULTI, tier-1, direwolf-relevance-5",
-    "note": "DIREWOLF ID: DW-LIT-0021; rank: 21; tier: Tier 1; relevance: 5/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0021; rank: 21; tier: Tier 1; relevance: 5/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0022",
@@ -819,7 +829,7 @@
     "DOI": "10.1038/s41598-024-51984-x",
     "URL": "https://doi.org/10.1038/s41598-024-51984-x",
     "keyword": "NUC, DON, FIELD, STATIC, tier-1, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0022; rank: 22; tier: Tier 1; relevance: 4/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0022; rank: 22; tier: Tier 1; relevance: 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0023",
@@ -854,7 +864,7 @@
     "DOI": "10.1038/s43588-026-00974-2",
     "URL": "https://doi.org/10.1038/s43588-026-00974-2",
     "keyword": "FE, HYBRID, OPERATOR, PHYS, tier-1, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0023; rank: 23; tier: Tier 1; relevance: 4/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0023; rank: 23; tier: Tier 1; relevance: 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0024",
@@ -893,7 +903,7 @@
     "DOI": "10.1016/j.advwatres.2022.104180",
     "URL": "https://doi.org/10.1016/j.advwatres.2022.104180",
     "keyword": "FNO, MULTI, TRANS, DATA, tier-1, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0024; rank: 24; tier: Tier 1; relevance: 4/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0024; rank: 24; tier: Tier 1; relevance: 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0025",
@@ -928,7 +938,7 @@
     "DOI": "10.3390/app16168043",
     "URL": "https://doi.org/10.3390/app16168043",
     "keyword": "NUC, FNO, MULTI, PHYS, tier-1, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0025; rank: 25; tier: Tier 1; relevance: 4/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0025; rank: 25; tier: Tier 1; relevance: 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0026",
@@ -955,9 +965,11 @@
         ]
       ]
     },
-    "container-title": "Journal of Computational Physics, 428, 110079",
+    "container-title": "Journal of Computational Physics 428:110079",
+    "DOI": "10.1016/j.jcp.2020.110079",
+    "URL": "https://doi.org/10.1016/j.jcp.2020.110079",
     "keyword": "GEOM, PINN, FIELD, STATIC, tier-1, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0026; rank: 26; tier: Tier 1; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0026; rank: 26; tier: Tier 1; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified; official code repository verified through GitHub."
   },
   {
     "id": "DW-LIT-0027",
@@ -988,9 +1000,11 @@
         ]
       ]
     },
-    "container-title": "Journal of Computational Physics, 394, 56–81",
+    "container-title": "Journal of Computational Physics 394:56-81",
+    "DOI": "10.1016/j.jcp.2019.05.024",
+    "URL": "https://doi.org/10.1016/j.jcp.2019.05.024",
     "keyword": "PHYS, UQ, FIELD, DATA, tier-1, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0027; rank: 27; tier: Tier 1; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0027; rank: 27; tier: Tier 1; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0028",
@@ -1013,9 +1027,11 @@
         ]
       ]
     },
-    "container-title": "Journal of Computational Physics, 366, 415–447",
+    "container-title": "Journal of Computational Physics 366:415-447",
+    "DOI": "10.1016/j.jcp.2018.04.018",
+    "URL": "https://doi.org/10.1016/j.jcp.2018.04.018",
     "keyword": "AE, UQ, FIELD, GRID, tier-1, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0028; rank: 28; tier: Tier 1; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0028; rank: 28; tier: Tier 1; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0029",
@@ -1050,10 +1066,10 @@
         ]
       ]
     },
-    "container-title": "ICLR. Author publication record",
-    "URL": "https://tobiaspfaff.com/publication/",
+    "container-title": "International Conference on Learning Representations (ICLR 2022)",
+    "URL": "https://openreview.net/forum?id=XctLdNfCmP",
     "keyword": "LAT, ATTN, TRANS, FE, tier-1, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0029; rank: 29; tier: Tier 1; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0029; rank: 29; tier: Tier 1; relevance: 4/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2201.09113; Peer-reviewed ICLR 2022 paper; no publication DOI in authoritative record."
   },
   {
     "id": "DW-LIT-0030",
@@ -1084,7 +1100,7 @@
     "DOI": "10.1016/j.net.2023.06.027",
     "URL": "https://doi.org/10.1016/j.net.2023.06.027",
     "keyword": "NUC, PINN, TRANS, PHYS, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0030; rank: 30; tier: Tier 2; relevance: 4/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0030; rank: 30; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0031",
@@ -1123,7 +1139,7 @@
     "DOI": "10.1109/CVPR.2018.00274",
     "URL": "https://doi.org/10.1109/CVPR.2018.00274",
     "keyword": "PC, GEOM, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0031; rank: 31; tier: Tier 2; relevance: 4/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0031; rank: 31; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   },
   {
     "id": "DW-LIT-0032",
@@ -1150,9 +1166,11 @@
         ]
       ]
     },
-    "container-title": "SIAM Review, 57, 483–531",
+    "container-title": "SIAM Review 57(4):483-531",
+    "DOI": "10.1137/130932715",
+    "URL": "https://doi.org/10.1137/130932715",
     "keyword": "ROM, POD, VV, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0032; rank: 32; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0032; rank: 32; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0033",
@@ -1175,9 +1193,11 @@
         ]
       ]
     },
-    "container-title": "SIAM Journal on Scientific Computing, 32, 2737–2764",
+    "container-title": "SIAM Journal on Scientific Computing 32(5):2737-2764",
+    "DOI": "10.1137/090766498",
+    "URL": "https://doi.org/10.1137/090766498",
     "keyword": "ROM, DEIM, PHYS, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0033; rank: 33; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0033; rank: 33; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0034",
@@ -1208,9 +1228,11 @@
         ]
       ]
     },
-    "container-title": "Journal of Computational Physics, 242, 623–647",
+    "container-title": "Journal of Computational Physics 242:623-647",
+    "DOI": "10.1016/j.jcp.2013.02.028",
+    "URL": "https://doi.org/10.1016/j.jcp.2013.02.028",
     "keyword": "ROM, GNAT, FE, VV, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0034; rank: 34; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0034; rank: 34; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0035",
@@ -1229,9 +1251,11 @@
         ]
       ]
     },
-    "container-title": "Journal of Fluid Mechanics, 656, 5–28",
+    "container-title": "Journal of Fluid Mechanics 656:5-28",
+    "DOI": "10.1017/S0022112010001217",
+    "URL": "https://doi.org/10.1017/S0022112010001217",
     "keyword": "DMD, TRANS, ROM, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0035; rank: 35; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0035; rank: 35; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0036",
@@ -1258,9 +1282,11 @@
         ]
       ]
     },
-    "container-title": "Annual Review of Fluid Mechanics, 25, 539–575",
+    "container-title": "Annual Review of Fluid Mechanics 25:539-575",
+    "DOI": "10.1146/annurev.fl.25.010193.002543",
+    "URL": "https://doi.org/10.1146/annurev.fl.25.010193.002543",
     "keyword": "POD, ROM, VV, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0036; rank: 36; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0036; rank: 36; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0037",
@@ -1283,9 +1309,11 @@
         ]
       ]
     },
-    "container-title": "AIAA Journal, 40, 2323–2330",
+    "container-title": "AIAA Journal 40(11):2323-2330",
+    "DOI": "10.2514/2.1570",
+    "URL": "https://doi.org/10.2514/2.1570",
     "keyword": "POD, CTRL, QOI, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0037; rank: 37; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0037; rank: 37; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0038",
@@ -1316,14 +1344,16 @@
         ]
       ]
     },
-    "container-title": "SMAI Journal of Computational Mathematics, 7, 121–157",
+    "container-title": "SMAI Journal of Computational Mathematics 7:121-157",
+    "DOI": "10.5802/smai-jcm.74",
+    "URL": "https://doi.org/10.5802/smai-jcm.74",
     "keyword": "ROM, OPERATOR, DATA, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0038; rank: 38; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0038; rank: 38; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0039",
-    "type": "article",
-    "title": "Neural-Network-Augmented Projection-Based Model Order Reduction for Mitigating the Kolmogorov Barrier to Reducibility of CFD Models",
+    "type": "article-journal",
+    "title": "Neural-network-augmented projection-based model order reduction for mitigating the Kolmogorov barrier to reducibility",
     "author": [
       {
         "family": "Barnett",
@@ -1341,14 +1371,15 @@
     "issued": {
       "date-parts": [
         [
-          2022
+          2023
         ]
       ]
     },
-    "container-title": "preprint",
-    "URL": "https://arxiv.org/abs/2212.08939",
+    "container-title": "Journal of Computational Physics 492:112420",
+    "DOI": "10.1016/j.jcp.2023.112420",
+    "URL": "https://doi.org/10.1016/j.jcp.2023.112420",
     "keyword": "POD, LAT, ROM, FIELD, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0039; rank: 39; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0039; rank: 39; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; preprint DOI: 10.48550/arXiv.2212.08939; Peer-reviewed journal version identified; canonical published title differs slightly from the original preprint title retained in source provenance."
   },
   {
     "id": "DW-LIT-0040",
@@ -1391,10 +1422,10 @@
         ]
       ]
     },
-    "container-title": "preprint",
+    "container-title": "arXiv:2003.03485",
     "URL": "https://arxiv.org/abs/2003.03485",
     "keyword": "GNO, FE, OPERATOR, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0040; rank: 40; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0040; rank: 40; tier: Tier 2; relevance: 4/5; DOI status: preprint_only_no_publication_doi; preprint DOI: 10.48550/arXiv.2003.03485; Verified as an arXiv/CoRR preprint rather than a separate peer-reviewed publication; arXiv DOI retained only as preprint DOI."
   },
   {
     "id": "DW-LIT-0041",
@@ -1429,15 +1460,15 @@
         ]
       ]
     },
-    "container-title": "preprint. Research-group publication index",
-    "URL": "https://tobiaspfaff.com/publication/",
+    "container-title": "arXiv:2210.00612",
+    "URL": "https://arxiv.org/abs/2210.00612",
     "keyword": "GNN, MULTISCALE, FE, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0041; rank: 41; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0041; rank: 41; tier: Tier 2; relevance: 4/5; DOI status: preprint_only_no_publication_doi; preprint DOI: 10.48550/arXiv.2210.00612; Verified as arXiv-only in the authors' publication listing; arXiv DOI retained separately."
   },
   {
     "id": "DW-LIT-0042",
     "type": "article-journal",
-    "title": "Neural Operator: Learning Maps Between Function Spaces",
+    "title": "Neural Operator: Learning Maps Between Function Spaces With Applications to PDEs",
     "author": [
       {
         "family": "Kovachki",
@@ -1451,9 +1482,10 @@
         ]
       ]
     },
-    "container-title": "Journal of Machine Learning Research. Full author list,",
+    "container-title": "Journal of Machine Learning Research 24(89):1-97",
+    "URL": "https://jmlr.org/papers/v24/21-1524.html",
     "keyword": "OPERATOR, THEORY, VV, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0042; rank: 42; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0042; rank: 42; tier: Tier 2; relevance: 4/5; DOI status: authoritative_record_no_publication_doi; Canonical JMLR title and venue verified; JMLR record has no DOI."
   },
   {
     "id": "DW-LIT-0043",
@@ -1484,9 +1516,11 @@
         ]
       ]
     },
-    "container-title": "Nature Machine Intelligence, 4, 1155–1164",
+    "container-title": "Nature Machine Intelligence 4:1155-1164",
+    "DOI": "10.1038/s42256-022-00569-2",
+    "URL": "https://doi.org/10.1038/s42256-022-00569-2",
     "keyword": "DON, TRANSFER, OOD, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0043; rank: 43; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0043; rank: 43; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0044",
@@ -1513,9 +1547,11 @@
         ]
       ]
     },
-    "container-title": "CMAME, 435, 117654",
+    "container-title": "Computer Methods in Applied Mechanics and Engineering 435:117654",
+    "DOI": "10.1016/j.cma.2024.117654",
+    "URL": "https://doi.org/10.1016/j.cma.2024.117654",
     "keyword": "GEN, UQ, FIELD, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0044; rank: 44; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0044; rank: 44; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0045",
@@ -1558,9 +1594,11 @@
         ]
       ]
     },
-    "container-title": "Engineering Applications of Artificial Intelligence, 136, 108896",
+    "container-title": "Engineering Applications of Artificial Intelligence 136:108896",
+    "DOI": "10.1016/j.engappai.2024.108896",
+    "URL": "https://doi.org/10.1016/j.engappai.2024.108896",
     "keyword": "GNN, FIELD, TRANS, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0045; rank: 45; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0045; rank: 45; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0046",
@@ -1587,13 +1625,15 @@
         ]
       ]
     },
-    "container-title": "AIAA SciTech, paper 0494",
+    "container-title": "AIAA SciTech Forum 2025, paper 0494",
+    "DOI": "10.2514/6.2025-0494",
+    "URL": "https://doi.org/10.2514/6.2025-0494",
     "keyword": "GNN, MF, FIELD, DATA, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0046; rank: 46; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0046; rank: 46; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Conference-paper DOI verified."
   },
   {
     "id": "DW-LIT-0047",
-    "type": "paper-conference",
+    "type": "article-journal",
     "title": "Choose a Transformer: Fourier or Galerkin",
     "author": [
       {
@@ -1608,9 +1648,11 @@
         ]
       ]
     },
-    "container-title": "NeurIPS, 24924–24940",
+    "container-title": "Advances in Neural Information Processing Systems 34:24924-24940",
+    "DOI": "10.5555/3540261.3542170",
+    "URL": "https://doi.org/10.5555/3540261.3542170",
     "keyword": "ATTN, OPERATOR, FIELD, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0047; rank: 47; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0047; rank: 47; tier: Tier 2; relevance: 4/5; DOI status: verified_proceedings_doi; preprint DOI: 10.48550/arXiv.2105.14995; Proceedings DOI/identifier verified through later scholarly references and ACM-linked citation; arXiv DOI retained separately."
   },
   {
     "id": "DW-LIT-0048",
@@ -1633,13 +1675,14 @@
         ]
       ]
     },
-    "container-title": "ICML",
+    "container-title": "Proceedings of the 41st International Conference on Machine Learning, PMLR 235:7526-7552",
+    "URL": "https://proceedings.mlr.press/v235/chen24au.html",
     "keyword": "ATTN, GEOM, OPERATOR, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0048; rank: 48; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0048; rank: 48; tier: Tier 2; relevance: 4/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2405.09285; PMLR ICML record supplies no publication DOI; arXiv DOI retained separately."
   },
   {
     "id": "DW-LIT-0049",
-    "type": "article",
+    "type": "paper-conference",
     "title": "Neural Operators with Localized Integral and Differential Kernels",
     "author": [
       {
@@ -1674,15 +1717,15 @@
         ]
       ]
     },
-    "container-title": "preprint",
-    "URL": "https://arxiv.org/abs/2402.16845",
+    "container-title": "Proceedings of the 41st International Conference on Machine Learning, PMLR 235:32576-32594",
+    "URL": "https://proceedings.mlr.press/v235/liu-schiaffini24a.html",
     "keyword": "OPERATOR, LOCAL, FE, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0049; rank: 49; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0049; rank: 49; tier: Tier 2; relevance: 4/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2402.16845; PMLR/DBLP records supply no publication DOI; arXiv DOI retained separately."
   },
   {
     "id": "DW-LIT-0050",
-    "type": "article",
-    "title": "DiMON: Learning Solution Operators of Partial Differential Equations on a Diffeomorphic Family of Domains",
+    "type": "article-journal",
+    "title": "A scalable framework for learning the geometry-dependent solution operators of partial differential equations",
     "author": [
       {
         "family": "Yin",
@@ -1716,10 +1759,11 @@
         ]
       ]
     },
-    "container-title": "preprint",
-    "URL": "https://arxiv.org/abs/2402.07250",
+    "container-title": "Nature Computational Science 4:928-940",
+    "DOI": "10.1038/s43588-024-00732-2",
+    "URL": "https://doi.org/10.1038/s43588-024-00732-2",
     "keyword": "GEOM, DON, OPERATOR, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0050; rank: 50; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0050; rank: 50; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; preprint DOI: 10.48550/arXiv.2402.07250; DIMON preprint was published under a different canonical title; published title/DOI now used, while the preprint DOI is retained separately."
   },
   {
     "id": "DW-LIT-0051",
@@ -1746,10 +1790,10 @@
         ]
       ]
     },
-    "container-title": "preprint",
+    "container-title": "arXiv:2402.15097",
     "URL": "https://arxiv.org/abs/2402.15097",
     "keyword": "DON, GEOM, MULTI, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0051; rank: 51; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0051; rank: 51; tier: Tier 2; relevance: 4/5; DOI status: preprint_only_no_publication_doi; preprint DOI: 10.48550/arXiv.2402.15097; This exact MIONet title remains a preprint. A later related SIAM paper has a different title and is not treated as the same publication."
   },
   {
     "id": "DW-LIT-0052",
@@ -1776,9 +1820,11 @@
         ]
       ]
     },
-    "container-title": "Journal of Computational Physics, 516, 113285",
+    "container-title": "Journal of Computational Physics 516:113285",
+    "DOI": "10.1016/j.jcp.2024.113285",
+    "URL": "https://doi.org/10.1016/j.jcp.2024.113285",
     "keyword": "PINN, FIELD, GEOM, tier-2, direwolf-relevance-3",
-    "note": "DIREWOLF ID: DW-LIT-0052; rank: 52; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0052; rank: 52; tier: Tier 2; relevance: 3/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0053",
@@ -1801,13 +1847,15 @@
         ]
       ]
     },
-    "container-title": "Computers & Fluids, 274, 106239",
+    "container-title": "Computers & Fluids 274:106239",
+    "DOI": "10.1016/j.compfluid.2024.106239",
+    "URL": "https://doi.org/10.1016/j.compfluid.2024.106239",
     "keyword": "FNO, SPECTRAL, FIELD, tier-2, direwolf-relevance-3",
-    "note": "DIREWOLF ID: DW-LIT-0053; rank: 53; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0053; rank: 53; tier: Tier 2; relevance: 3/5; DOI status: verified_publication_doi; Journal DOI and official code repository verified."
   },
   {
     "id": "DW-LIT-0054",
-    "type": "article",
+    "type": "paper-conference",
     "title": "Factorized Fourier Neural Operators",
     "author": [
       {
@@ -1830,19 +1878,19 @@
     "issued": {
       "date-parts": [
         [
-          2021
+          2023
         ]
       ]
     },
-    "container-title": "preprint",
-    "URL": "https://arxiv.org/abs/2111.13802",
+    "container-title": "The Eleventh International Conference on Learning Representations (ICLR 2023)",
+    "URL": "https://openreview.net/forum?id=tmIiMPl4IPa",
     "keyword": "FNO, SCALE, GRID, tier-2, direwolf-relevance-3",
-    "note": "DIREWOLF ID: DW-LIT-0054; rank: 54; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0054; rank: 54; tier: Tier 2; relevance: 3/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2111.13802; Peer-reviewed ICLR 2023 publication verified; no publication DOI in conference record. Original manifest incorrectly left venue/publication status unresolved."
   },
   {
     "id": "DW-LIT-0055",
-    "type": "article",
-    "title": "MGNO: Efficient Parameterization of Linear Operators via Multigrid",
+    "type": "paper-conference",
+    "title": "MgNO: Efficient Parameterization of Linear Operators via Multigrid",
     "author": [
       {
         "family": "He",
@@ -1860,14 +1908,14 @@
     "issued": {
       "date-parts": [
         [
-          2023
+          2024
         ]
       ]
     },
-    "container-title": "preprint",
-    "URL": "https://arxiv.org/abs/2310.19809",
+    "container-title": "International Conference on Learning Representations (ICLR 2024)",
+    "URL": "https://openreview.net/forum?id=8OxL034uEr",
     "keyword": "OPERATOR, MULTISCALE, tier-2, direwolf-relevance-3",
-    "note": "DIREWOLF ID: DW-LIT-0055; rank: 55; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0055; rank: 55; tier: Tier 2; relevance: 3/5; DOI status: authoritative_record_no_publication_doi; preprint DOI: 10.48550/arXiv.2310.19809; Peer-reviewed ICLR 2024 publication verified; no publication DOI in authoritative conference record."
   },
   {
     "id": "DW-LIT-0056",
@@ -1890,9 +1938,11 @@
         ]
       ]
     },
-    "container-title": "CMAME, 341, 807–826",
+    "container-title": "Computer Methods in Applied Mechanics and Engineering 341:807-826",
+    "DOI": "10.1016/j.cma.2018.07.017",
+    "URL": "https://doi.org/10.1016/j.cma.2018.07.017",
     "keyword": "POD, GP, UQ, DATA, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0056; rank: 56; tier: Tier 2; relevance: 4/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0056; rank: 56; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0057",
@@ -1919,9 +1969,11 @@
         ]
       ]
     },
-    "container-title": "Journal of Nonlinear Science, 25, 1307–1346",
+    "container-title": "Journal of Nonlinear Science 25(6):1307-1346",
+    "DOI": "10.1007/s00332-015-9258-5",
+    "URL": "https://doi.org/10.1007/s00332-015-9258-5",
     "keyword": "KOOP, ROM, TRANS, tier-2, direwolf-relevance-3",
-    "note": "DIREWOLF ID: DW-LIT-0057; rank: 57; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0057; rank: 57; tier: Tier 2; relevance: 3/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0058",
@@ -1956,9 +2008,11 @@
         ]
       ]
     },
-    "container-title": "Journal of Fluid Mechanics, 641, 115–127",
+    "container-title": "Journal of Fluid Mechanics 641:115-127",
+    "DOI": "10.1017/S0022112009992059",
+    "URL": "https://doi.org/10.1017/S0022112009992059",
     "keyword": "KOOP, DMD, TRANS, tier-2, direwolf-relevance-3",
-    "note": "DIREWOLF ID: DW-LIT-0058; rank: 58; tier: Tier 2; relevance: 3/5; verification: bibliographic record identified; DOI unresolved"
+    "note": "DIREWOLF ID: DW-LIT-0058; rank: 58; tier: Tier 2; relevance: 3/5; DOI status: verified_publication_doi; Journal DOI verified."
   },
   {
     "id": "DW-LIT-0059",
@@ -2001,6 +2055,6 @@
     "DOI": "10.7538/yzk.2025.youxian.0349",
     "URL": "https://doi.org/10.7538/yzk.2025.youxian.0349",
     "keyword": "NUC, TRANS, PHYS, CTRL, tier-2, direwolf-relevance-4",
-    "note": "DIREWOLF ID: DW-LIT-0059; rank: 59; tier: Tier 2; relevance: 4/5; verification: verified DOI in source manifest"
+    "note": "DIREWOLF ID: DW-LIT-0059; rank: 59; tier: Tier 2; relevance: 4/5; DOI status: verified_publication_doi_from_initial_manifest; Retained from initial verified manifest."
   }
 ]
